@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:dpa.com:20090101:dsv:text:ERG_MM_TE_FEDCUP_W_2024_1125" standard="NewsML-G2" standardversion="2.32"
+                  version="52" xml:lang="de">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <copyrightNotice>Copyright dsv - All rights reserved
+				</copyrightNotice>
+                    <usageTerms>None</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:text"/>
+                <provider qcode="dnlprov:dpa">
+                    <name>dpa</name>
+                </provider>
+                <versionCreated>2024-11-20T18:41:51+01:00</versionCreated>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:spe">
+                            <name>spe</name>
+                    </service>
+                    <edNote role="dpaednoterole:notepad">
+                        <section xmlns="http://www.w3.org/1999/xhtml" class="notepad">
+<header><h3>Notizblock</h3></header><section class="np-public"><ul></ul></section>                        </section>
+                    </edNote>
+            </itemMeta>
+            <contentMeta>
+                <urgency>3</urgency>
+
+
+
+
+                    <genre qcode="dpatextgenre:1">
+                        <name>Meldung</name>
+                    </genre>
+
+                    <subject qcode="dpacat:sp" type="dpatype:category">
+                            <name>sp</name>
+                    </subject>
+
+                <audience qcode="dpaaudience:deu">
+                        <name>deutsch</name>                    </audience>
+                
+                <keyword rank="1">Ergebnisse</keyword>
+                
+                <language tag="de"/>
+
+                <headline rank="1">Ergebnisse Tennis</headline>
+                
+                
+                
+                
+                                                
+            </contentMeta>
+            <contentSet>
+                    <inlineXML contenttype="application/xhtml+xml">
+                        <html xmlns="http://www.w3.org/1999/xhtml">
+                        <head>
+                            <meta charset="utf-8"/>
+                            <title>Ergebnisse Tennis</title>
+                        </head>
+                        <body>
+                        <header>
+                            <time class="publicationDate"
+                                  data-datetime="2024-11-20T18:41:51+01:00">20.11.2024 18:41</time>
+                                <ul class="slugline">
+                                        <li class="keyword"
+                                            >Ergebnisse</li>
+                                </ul>
+                                <h1>Ergebnisse Tennis</h1>
+                        </header>
+                        <section class="main dpatextgenre_1">
+                                <div class="sport"><p>Billie Jean King Cup</p><p>K.o.-Runde in Málaga/Spanien</p><p>Halbfinale</p><p>Dienstag, 19.11.2024:<br />Großbritannien - Slowakei 1:2<br />Emma Raducanu (Großbritannien) - Viktoria Hruncakova (Slowakei) 6:4, 6:4; Katie Boulter (Großbritannien) - Rebecca Sramkova (Slowakei) 6:2, 4:6, 4:6; Olivia Nicholls/Heather Watson (Großbritannien) - Viktoria Hruncakova/Tereza Mihalikova (Slowakei) 2:6, 2:6</p><p>Finale</p><p>Mittwoch, 20.11.2024:<br />Italien - Slowakei 1:0<br />Viktoria Hruncakova (Slowakei) - Lucia Bronzetti (Italien) 2:6, 4:6; Rebecca Sramkova (Slowakei) - Jasmine Paolini (Italien) 18.45; Viktoria Hruncakova/Tereza Mihalikova (Slowakei) - Sara Errani/Jasmine Paolini (Italien) 20.15</p></div>
+                        </section>
+                        </body>
+                        </html>
+                    </inlineXML>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

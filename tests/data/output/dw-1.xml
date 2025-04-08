@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:dpa.com:20090101:240923-930-240378" standard="NewsML-G2" standardversion="2.32"
+                  version="2" xml:lang="de">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <copyrightNotice>Copyright 2024, dpa (www.dpa.de). Alle Rechte vorbehalten</copyrightNotice>
+                    <usageTerms>Nutzung nur nach schriftlicher Vereinbarung mit dpa
+Use only with the written agreement with dpa</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:text"/>
+                <provider qcode="dnlprov:dpa">
+                    <name>dpa</name>
+                </provider>
+                <versionCreated>2024-09-24T12:05:52+02:00</versionCreated>
+                    <pubStatus qcode="stat:usable">
+                        <name>usable</name>
+                    </pubStatus>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:bdt">
+                            <name>bdt</name>
+                    </service>
+                    <service qcode="dpasrv:bid">
+                            <name>bid</name>
+                    </service>
+                    <service qcode="dpasrv:bwg">
+                            <name>bwg</name>
+                    </service>
+                    <edNote role="dpaednoterole:closingline" >dpa kre/su yysw a3 lön mda</edNote>
+                    <edNote role="dpaednoterole:editorialnote" >Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:</edNote>
+                    <edNote role="dpaednoterole:editorialnote" >Produkte der Marke VirginiaCare</edNote>
+                    <edNote role="dpaednoterole:contacts" pubconstraint="dpapconstraint:nonpublic">Schlag Agentur, Kontakt zu Milena Aboyan, Julia Vogler, +49 30 32779356, vogler@schlag-agentur.de</edNote>
+                    <edNote role="dpaednoterole:contacts" pubconstraint="dpapconstraint:nonpublic">Mädchen*gesundheitsladen, Lea Geiger, +49 711 30568520, maedchengesundheitsladen.de</edNote>
+                    <edNote role="dpaednoterole:contacts" pubconstraint="dpapconstraint:nonpublic">Familienplanungszentrum Berlin, +49 30 23623680, balance@fpz-berlin.de</edNote>
+                    <edNote role="dpaednoterole:contacts" pubconstraint="dpapconstraint:nonpublic">Pro Familia, Fachärztin für Gynäkologie und Geburtshilfe Jutta Pliefke, +49 30 39849898, jutta.pliefke@profamilia.de</edNote>
+                    <edNote role="dpaednoterole:contacts" pubconstraint="dpapconstraint:nonpublic">VirginiaCare, info@virginia-care.com</edNote>
+                    <edNote role="dpaednoterole:contacts" pubconstraint="dpapconstraint:nonpublic">Terre des Femmes, Referentin für Sexuelle und Reproduktive Rechte, Lena Henke, +49 30 4050469918, repro@frauenrechte.de</edNote>
+                    <edNote role="dpaednoterole:contacts" pubconstraint="dpapconstraint:nonpublic">Evangelische Gesellschaft Stuttgart, Kommunikation Dorothee Schöpfer, +49 711 2054395, dorothee.schoepfer@eva-stuttgart.de</edNote>
+                    <edNote role="dpaednoterole:dpacontacts" pubconstraint="dpapconstraint:nonpublic">Autor/in: Marco Krefting (Waghäusel) +49 163 4113161, Krefting.marco@dpa.com und Sunrita Sen (Neu Delhi)</edNote>
+                    <edNote role="dpaednoterole:dpacontacts" pubconstraint="dpapconstraint:nonpublic">Redaktion: Meyel Löning (Berlin), +49 30 2852 32292, &lt;panorama@dpa.com&gt;</edNote>
+                    <edNote role="dpaednoterole:picture" >Foto Produktion</edNote>
+                    <edNote role="dpaednoterole:correction" >der Meldung mit der Kennung urn:newsml:dpa.com:20090101:240923-930-240378 („«Mythos Jungfernhäutchen» - Zwischen Aufklärung und Kommerz“) vom 23.9.24. Im letzten Absatz, 4. Satz muss es richtig heißen: «Vergewaltigung in der Ehe sei bis 1997 in Deutschland kein Verbrechen gewesen (statt: 1992).</edNote>
+                    <edNote role="dpaednoterole:correctionshort" >In einer früheren Version dieses Textes hieß es, Vergewaltigung in der Ehe sei bis 1992 nicht strafbar gewesen. Richtig ist aber das Jahr 1997.</edNote>
+                    <edNote role="dpaednoterole:notepad">
+                        <section xmlns="http://www.w3.org/1999/xhtml" class="notepad">
+<header><h3>Notizblock</h3></header><section class="np-public"><h4>Berichtigung</h4><ul><li>der Meldung mit der Kennung urn:newsml:dpa.com:20090101:240923-930-240378 ("«Mythos Jungfernhäutchen» - Zwischen Aufklärung und Kommerz") vom 23.9.24. Im letzten Absatz, 4. Satz muss es richtig heißen: «Vergewaltigung in der Ehe sei bis 1997 in Deutschland kein Verbrechen gewesen (statt: 1992).</li></ul><h4>Redaktionelle Hinweise</h4><ul><li>Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:</li><li>Produkte der Marke VirginiaCare</li></ul><h4>Internet</h4><ul><li><a href="https://dpaq.de/SsgRreo">Produkte von VirginiaCare</a></li><li><a href="https://dpaq.de/Ik0FISK">Informationen von Terre des Femmes zum Thema</a></li><li><a href="https://dpaq.de/KFW8hIv">Beratungsangebot des Familienplanungszentrums Berlin</a></li><li><a href="https://dpaq.de/YI8aE5c">Beratungsangebot des Mädchen*gesundheitsladens</a></li><li><a href="https://dpaq.de/xc0gufp">Infos über Film «Elaha»</a></li><li><a href="https://dpaq.de/LJsy9eh">Info-Flyer des Mädchen*gesundheitsladens</a></li></ul><h4>Orte</h4><ul><li>[Pro Familia](Kalckreuthstraße 4, 10777 Berlin, Deutschland)</li><li>[ungefährer Firmensitz](68753 Waghäusel, Deutschland)</li><li>[Terre des Femmes](Brunnenstraße 128, 13355 Berlin, Deutschland)</li><li>[Mädchen*gesundheitsladen](Lindenspürstraße 32, 70176 Stuttgart, Deutschland)</li><li>[Evangelische Gesellschaft Stuttgart ](Büchsenstraße 34-36, 70174 Stuttgart, Deutschland)</li><li>[Familienplanungszentrum Berlin](Hinterhof 12-12A, 13055 Berlin, Deutschland)</li></ul></section><section class="np-nonpublic"><p>Die folgenden Informationen sind nicht zur Veröffentlichung bestimmt</p><h4>Ansprechpartner</h4><ul><li>Schlag Agentur, Kontakt zu Milena Aboyan, Julia Vogler, +49 30 32779356, vogler@schlag-agentur.de</li><li>Mädchen*gesundheitsladen, Lea Geiger, +49 711 30568520, maedchengesundheitsladen.de</li><li>Familienplanungszentrum Berlin, +49 30 23623680, balance@fpz-berlin.de</li><li>Pro Familia, Fachärztin für Gynäkologie und Geburtshilfe Jutta Pliefke, +49 30 39849898, jutta.pliefke@profamilia.de</li><li>VirginiaCare, info@virginia-care.com</li><li>Terre des Femmes, Referentin für Sexuelle und Reproduktive Rechte, Lena Henke, +49 30 4050469918, repro@frauenrechte.de</li><li>Evangelische Gesellschaft Stuttgart, Kommunikation Dorothee Schöpfer, +49 711 2054395, dorothee.schoepfer@eva-stuttgart.de</li></ul><h4>Kontakte</h4><ul><li>Autor/in: Marco Krefting (Waghäusel) +49 163 4113161, Krefting.marco@dpa.com und Sunrita Sen (Neu Delhi)</li><li>Redaktion: Meyel Löning (Berlin), +49 30 2852 32292, &lt;panorama@dpa.com&gt;</li></ul></section><p class="closingline">dpa kre/su yysw a3 lön mda</p>                        </section>
+                    </edNote>
+                        <signal qcode="sig:correction"/>
+                    <link rel="irel:seeAlso" rank="1" href="https://dpaq.de/SsgRreo">
+                        <title>Produkte von VirginiaCare</title>
+                    </link>
+                    <link rel="irel:seeAlso" rank="2" href="https://dpaq.de/Ik0FISK">
+                        <title>Informationen von Terre des Femmes zum Thema</title>
+                    </link>
+                    <link rel="irel:seeAlso" rank="3" href="https://dpaq.de/KFW8hIv">
+                        <title>Beratungsangebot des Familienplanungszentrums Berlin</title>
+                    </link>
+                    <link rel="irel:seeAlso" rank="4" href="https://dpaq.de/YI8aE5c">
+                        <title>Beratungsangebot des Mädchen*gesundheitsladens</title>
+                    </link>
+                    <link rel="irel:seeAlso" rank="5" href="https://dpaq.de/xc0gufp">
+                        <title>Infos über Film «Elaha»</title>
+                    </link>
+                    <link rel="irel:seeAlso" rank="6" href="https://dpaq.de/LJsy9eh">
+                        <title>Info-Flyer des Mädchen*gesundheitsladens</title>
+                    </link>
+            </itemMeta>
+            <contentMeta>
+                <urgency>3</urgency>
+
+
+                    <creator >
+                            <name>loening.meyel</name>
+                    </creator>
+
+                    <contributor qcode="dpa-ad:loening.meyel">
+                            <name>loening.meyel</name>
+                    </contributor>
+                    <contributor qcode="dpa-ad:armborst.matthias">
+                            <name>armborst.matthias</name>
+                    </contributor>
+
+                    <genre qcode="dpatextgenre:14">
+                        <name>KORR-Bericht</name>
+                    </genre>
+
+                    <subject qcode="dpacat:vm" type="dpatype:category">
+                            <name>vm</name>
+                    </subject>
+                    <subject qcode="dpaarea:1" type="cpnat:geoArea" rank="1">
+                            <name>Baden-Württemberg</name>
+                    </subject>
+                    <subject qcode="dpacountry:1" type="cpnat:geoArea" rank="2">
+                            <name>Deutschland</name>
+                    </subject>
+                    <subject qcode="dpasubject:346" type="dpatype:dpasubject" rank="1">
+                            <name>Gesundheit</name>
+                    </subject>
+                    <subject qcode="medtop:20000768" type="dpatype:dpasubject" rank="2">
+                            <name>Gesellschaft</name>
+                    </subject>
+                        <subject literal="poiID0" rank="1" type="cpnat:poi">
+                                <name>Pro Familia</name>
+                        </subject>
+                        <subject literal="poiID1" rank="2" type="cpnat:poi">
+                                <name>ungefährer Firmensitz</name>
+                        </subject>
+                        <subject literal="poiID2" rank="3" type="cpnat:poi">
+                                <name>Terre des Femmes</name>
+                        </subject>
+                        <subject literal="poiID3" rank="4" type="cpnat:poi">
+                                <name>Mädchen*gesundheitsladen</name>
+                        </subject>
+                        <subject literal="poiID4" rank="5" type="cpnat:poi">
+                                <name>Evangelische Gesellschaft Stuttgart </name>
+                        </subject>
+                        <subject literal="poiID5" rank="6" type="cpnat:poi">
+                                <name>Familienplanungszentrum Berlin</name>
+                        </subject>
+
+                
+                <keyword rank="1">Frauen</keyword>
+                
+                <language tag="de"/>
+
+                <headline rank="1">«Mythos Jungfernhäutchen» - Zwischen Aufklärung und Kommerz</headline>
+                <headline rank="3">Frauenrechte</headline>
+                <dateline>Waghäusel (dpa) - </dateline>
+                <by>Von Marco Krefting und Sunrita Sen, dpa</by>
+                <creditline>dpa</creditline>
+                <description role="drol:teaser">Ein Unternehmen aus Baden vertreibt Blutkapseln und «künstliche Jungfernhäutchen». Es will helfen, erntet aber auch Kritik - und macht so auf ein gesellschaftliches Phänomen aufmerksam.</description>                                
+            </contentMeta>
+                    <assert literal="poiID0">
+                        <POIDetails>
+                            <position latitude="52.49942" longitude="13.34783"/>
+                            <address>
+                                <line role="nrol:display">Pro Familia</line>
+                                <line role="nrol:full">Kalckreuthstraße 4, 10777 Berlin, Deutschland</line>
+                                <locality role="dpalocalityrole:locality">
+                                    <name>Berlin</name>
+                                </locality>
+                                <area role="dpaarearole:area">
+                                <name>Kalckreuthstraße 4, 10777 Berlin, Deutschland</name>
+                                </area>
+                                <country type="cpnat:geoArea">
+                                    <name>Deutschland</name>
+                                </country>
+                            </address>
+                        </POIDetails>
+                    </assert>
+                    <assert literal="poiID1">
+                        <POIDetails>
+                            <position latitude="49.24953" longitude="8.51543"/>
+                            <address>
+                                <line role="nrol:display">ungefährer Firmensitz</line>
+                                <line role="nrol:full">68753 Waghäusel, Deutschland</line>
+                                <locality role="dpalocalityrole:locality">
+                                    <name>Waghäusel</name>
+                                </locality>
+                                <area role="dpaarearole:area">
+                                <name>68753 Waghäusel, Deutschland</name>
+                                </area>
+                                <country type="cpnat:geoArea">
+                                    <name>Deutschland</name>
+                                </country>
+                            </address>
+                        </POIDetails>
+                    </assert>
+                    <assert literal="poiID2">
+                        <POIDetails>
+                            <position latitude="52.53958" longitude="13.3947"/>
+                            <address>
+                                <line role="nrol:display">Terre des Femmes</line>
+                                <line role="nrol:full">Brunnenstraße 128, 13355 Berlin, Deutschland</line>
+                                <locality role="dpalocalityrole:locality">
+                                    <name>Berlin</name>
+                                </locality>
+                                <area role="dpaarearole:area">
+                                <name>Brunnenstraße 128, 13355 Berlin, Deutschland</name>
+                                </area>
+                                <country type="cpnat:geoArea">
+                                    <name>Deutschland</name>
+                                </country>
+                            </address>
+                        </POIDetails>
+                    </assert>
+                    <assert literal="poiID3">
+                        <POIDetails>
+                            <position latitude="48.77751" longitude="9.15885"/>
+                            <address>
+                                <line role="nrol:display">Mädchen*gesundheitsladen</line>
+                                <line role="nrol:full">Lindenspürstraße 32, 70176 Stuttgart, Deutschland</line>
+                                <locality role="dpalocalityrole:locality">
+                                    <name>Stuttgart</name>
+                                </locality>
+                                <area role="dpaarearole:area">
+                                <name>Lindenspürstraße 32, 70176 Stuttgart, Deutschland</name>
+                                </area>
+                                <country type="cpnat:geoArea">
+                                    <name>Deutschland</name>
+                                </country>
+                            </address>
+                        </POIDetails>
+                    </assert>
+                    <assert literal="poiID4">
+                        <POIDetails>
+                            <position latitude="48.77832" longitude="9.1722"/>
+                            <address>
+                                <line role="nrol:display">Evangelische Gesellschaft Stuttgart </line>
+                                <line role="nrol:full">Büchsenstraße 34-36, 70174 Stuttgart, Deutschland</line>
+                                <locality role="dpalocalityrole:locality">
+                                    <name>Stuttgart</name>
+                                </locality>
+                                <area role="dpaarearole:area">
+                                <name>Büchsenstraße 34-36, 70174 Stuttgart, Deutschland</name>
+                                </area>
+                                <country type="cpnat:geoArea">
+                                    <name>Deutschland</name>
+                                </country>
+                            </address>
+                        </POIDetails>
+                    </assert>
+                    <assert literal="poiID5">
+                        <POIDetails>
+                            <position latitude="52.54743" longitude="13.49805"/>
+                            <address>
+                                <line role="nrol:display">Familienplanungszentrum Berlin</line>
+                                <line role="nrol:full">Hinterhof 12-12A, 13055 Berlin, Deutschland</line>
+                                <locality role="dpalocalityrole:locality">
+                                    <name>Berlin</name>
+                                </locality>
+                                <area role="dpaarearole:area">
+                                <name>Hinterhof 12-12A, 13055 Berlin, Deutschland</name>
+                                </area>
+                                <country type="cpnat:geoArea">
+                                    <name>Deutschland</name>
+                                </country>
+                            </address>
+                        </POIDetails>
+                    </assert>
+            <contentSet>
+                    <inlineXML contenttype="application/xhtml+xml">
+                        <html xmlns="http://www.w3.org/1999/xhtml">
+                        <head>
+                            <meta charset="utf-8"/>
+                            <title>«Mythos Jungfernhäutchen» - Zwischen Aufklärung und Kommerz</title>
+                        </head>
+                        <body>
+                        <header>
+                            <time class="publicationDate"
+                                  data-datetime="2024-09-24T12:05:52+02:00">24.09.2024 12:05</time>
+                                <ul class="slugline">
+                                        <li class="subject"
+                                            data-qcode="dpasubject:346">Gesundheit</li>
+                                        <li class="subject"
+                                            data-qcode="medtop:20000768">Gesellschaft</li>
+                                        <li class="geo"
+                                            data-qcode="dpaarea:1">Baden-Württemberg</li>
+                                        <li class="geo"
+                                            data-qcode="dpacountry:1">Deutschland</li>
+                                        <li class="keyword"
+                                            >Frauen</li>
+                                </ul>
+                                <h1>«Mythos Jungfernhäutchen» - Zwischen Aufklärung und Kommerz</h1>
+                                <h3>Frauenrechte</h3>
+                                <p class="byline">Von Marco Krefting und Sunrita Sen, dpa</p>
+                        </header>
+                        <section class="main dpatextgenre_14">
+                                <p class="teaser">Ein Unternehmen aus Baden vertreibt Blutkapseln und «künstliche Jungfernhäutchen». Es will helfen, erntet aber auch Kritik - und macht so auf ein gesellschaftliches Phänomen aufmerksam.</p>
+                                <p><span class="dateline">Waghäusel <span class="credit">(dpa)</span> - </span>Die meisten Kundinnen bestellen nur einmal, Rezensionen gibt es kaum. Als «echt schräg» bezeichnet der Mann das Geschäft, das er mit seiner Firma in Waghäusel bei Karlsruhe betreibt - und das der Grund dafür ist, dass er lieber nicht namentlich genannt werden möchte. Denn er vertreibt Blutkapseln und «künstliche Jungfernhäutchen».</p>
+                                <p>Was markant klingt, ist ein Pulver aus Lebensmittelfarbe und ein paar Zusätzen, das Frauen sich wahlweise in einer Kapsel oder eingebettet in zwei Zellulose-Membranen in die Vagina einführen können. Die Kapsel soll sich binnen zwei Stunden auflösen, die briefmarkengroßen Zelluloseschnipsel innerhalb weniger Minuten - und in Kontakt mit Körperflüssigkeit sollen rote Flecken am Bettlaken übrig bleiben. So soll Jungfräulichkeit nachgewiesen werden. </p>
+                                <h2>Betroffene werden geächtet und verstoßen</h2>
+                                <p>Was vielleicht bizarr anmutet, ist in vielen Kulturen verbreitet. So ist beispielsweise in Indien Sex vor der Ehe traditionell verpönt, manche Familien inspizieren deshalb nach der Hochzeitsnacht Laken. Frauen, die keine Jungfrauen sind, gelten als sittenlos - ein Ehrverlust für sie und ihre Familie. Besteht der Verdacht, dass sie keine Jungfrau mehr sind, werden Familien der Bräute in einigen konservativen Gemeinschaften geächtet und die Betroffenen verstoßen. </p>
+                                <p>So wundert es nicht, dass Indien dem Geschäftsführer zufolge einer der größten Absatzmärkte für die Produkte der Marke «VirginiaCare» ist. Geliefert werde aber im Grunde weltweit, auch in andere Teile Asiens und den arabischen Raum etwa.</p>
+                                <h2>Immer wieder kontroverse Diskussionen in Workshops</h2>
+                                <p>Auch in Deutschland ist Jungfräulichkeit immer wieder Thema, wie Beratungsstellen deutlich machen. Gianna Gentili vom Stuttgarter Mädchen*gesundheitsladen etwa berichtet, dass die Nachfrage in Workshops sehr hoch sei. «Es kommt immer wieder zu kontroversen Diskussionen.» Valentina Sbahi vom Familienplanungszentrum Balance in Berlin sagt, zu ihr kämen auch Mädchen und Frauen aus anderen Bundesländern. «50 bis 60 Prozent meiner Klienten sind in Deutschland geboren. Sie sind hier zur Schule gegangen.»</p>
+                                <p>Selbstbewusste Frauen würden vor der Hochzeit von kulturellen Werten eingeholt, hat auch Jutta Pliefke von Pro Familia festgestellt. Musliminnen kämen zur Beratung, ebenso Frauen aus streng katholischen Familien. «Das ist ein Dauerthema bei uns.» Manche Bedrohung sei sehr konkret. Die Gynäkologin klärt über die weibliche Anatomie auf und über Möglichkeiten.</p>
+                                <p>Immer wieder nachgefragt werden Hymen-Rekonstruktionen, bei denen Jungfernhäutchen (Hymen) wiederhergestellt werden sollen. Diese Operationen seien verglichen mit den Blutkapseln gefährlicher und mit Preisen im vierstelligen Bereich teuer, sagt Sbahi. «Und man hat keine Garantie, dass es dann auch blutet.» Daher finde sie Kunstblut-Produkte besser.</p>
+                                <h2>Terre des Femmes: Notsituation nicht ausnutzen</h2>
+                                <p>Rund 130 Euro kostet das «VirginaCare»-Komplettpaket regulär. Kundinnen können es online bestellen oder auch in der Apotheke. Es enthält unter anderem je zwei Blutkapseln und «künstliche Jungfernhäutchen». «Dann können die Frauen beides vorher ausprobieren», sagt der Geschäftsführer. Auch einzeln werden Produkte verkauft. Absatzzahlen nennt der Mann nicht. Nur so viel: Die Nachfrage sei zuletzt um 10 bis 20 Prozent pro Jahr gestiegen. </p>
+                                <p>Das können nur Notlösungen sein, sagt Lena Henke, Referentin für sexuelle und reproduktive Rechte bei der Organisation Terre des Femmes. Werkzeuge der Selbstbestimmung seien es jedenfalls nicht. Kritik äußert sie vor allem an manchem Werbeslogan: «Mit Aussagen wie "Du hast dein Hymen beschädigt" nutzt das Unternehmen die Angst der Betroffenen aus und reproduziert Irrglauben. Sie tragen dazu bei, dass der gefährliche Mythos vom Jungfernhäutchen und das Konzept Jungfräulichkeit sich weiter hartnäckig halten.» Die Notsituation der Frauen dürfe nicht für kommerzielle Interessen ausgenutzt werden.</p>
+                                <h2>Aufklären über «Mythos Jungfernhäutchen»</h2>
+                                <p>Die Frauenrechtsorganisation hat jüngst eine Aufklärungsbroschüre «Es gibt kein Jungfern-Häutchen: Informationen zum Hymen» veröffentlicht. Wie ähnliche Kampagnen zum «Mythos Jungfernhäutchen» räumt diese mit grundlegenden Missverständnissen auf: «Das Hymen hat nichts mit Jungfrau sein zu tun.» Es gebe kein Stück Haut, das die Vagina verschließe und reiße, wenn ein Penis eindringt. Das Hymen sei eine Art Haut-Kranz, könne unterschiedlich aussehen, manche Frauen hätten gar keines. Und: Nicht immer blute es beim ersten Sex. </p>
+                                <p>Themen, die auch Gynäkologin Pliefke immer wieder bespricht - und dabei schon mal einen Spiegel zur Hilfe nimmt, damit die Mädchen und Frauen sich selbst einen Eindruck verschaffen können. «Die anatomischen Fakten sind oft nicht klar.»</p>
+                                <h2>«Patriarchat hat keine Herkunft»</h2>
+                                <p>Einfache Aufklärung im Biologieunterricht reiche nicht aus, das hat auch Milena Aboyan festgestellt. Die Regisseurin hat mit «Elaha» einen Film genau zu dem Thema gemacht, der für den Deutschen Filmpreis nominiert war. Sie habe vorher mit der deutsch-kurdischen Gemeinde gesprochen. «Wir waren der Meinung, dass es Zeit ist, darüber zu reden.»</p>
+                                <p>Nun zeige sie den Film unter anderem in Schulen und erhalte viel positives Feedback, sagt Aboyan. Aus ihrer Sicht ist das Thema Jungfräulichkeit aber nur ein spezifisches Problem. «Das Patriarchat in der Gesellschaft ist allgemein ein Problem.» Es gehe darum, dass Frauen und weibliche Körper sexualisiert werden. «Wir müssen die Narrative ändern.» </p>
+                                <p>Das sei nicht nur Aufgabe der Frauen, betont Aboyan. Und es sei auch nicht nur ein Thema von Migrantinnen und Migranten. «Patriarchat hat keine Herkunft.» Vergewaltigung in der Ehe sei bis 1997 in Deutschland kein Verbrechen gewesen. Auch Pliefke warnt davor, auf andere zu zeigen: «Es nicht so lange her, da waren wir in Deutschland auch schamhaft.» Die Idee, eine Braut müsse Jungfrau sein, sei noch in den 1950ern weit verbreitet gewesen.</p>
+                        </section>
+                        </body>
+                        </html>
+                    </inlineXML>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

@@ -1,0 +1,201 @@
+{
+  "format": "digitalwires@0.9.1",
+  "type": "composite",
+  "entry_id": "0wklRbFXf1gK48bnYymA6ER7UjEKBso2R117tFYdBI",
+  "updated": "2025-01-29T15:15:48Z",
+  "urn": "urn:newsml:dpa.com:20090101:250129-99-739668",
+  "version_created": "2025-01-29T07:36:58+01:00",
+  "version": 4,
+  "pubstatus": "usable",
+  "signal": "sig:correction",
+  "embargoed": null,
+  "content_created": "2019-12-07",
+  "language": "de",
+  "urgency": 3,
+  "kicker": null,
+  "headline": "Caroline Kennedy",
+  "subhead": null,
+  "teaser": null,
+  "byline": null,
+  "dateline": null,
+  "article_html": null,
+  "infobox_html": null,
+  "linkbox_html": null,
+  "creditline": "Steve Helber/AP/dpa",
+  "copyrightnotice": null,
+  "usageterms": "Nutzung nur nach vertraglicher Vereinbarung",
+  "autopublishnotice": null,
+  "notepad": null,
+  "ednotes": [
+    {
+      "role": null,
+      "ednote": "FILE PHOTO -Ortsname korrigiert",
+      "is_publishable": false
+    }
+  ],
+  "descriptions": [
+    {
+      "role": "drol:caption",
+      "description": "Caroline Kennedy, Tochter des ehemaligen US-Präsidenten Kennedy, aufgenommen vor der Taufe des nuklearen Flugzeugträgers John F. Kennedy bei Newport News Shipbuilding. (zu dpa \"Cousine warnt vor Ministeramt für Kennedy Jr.: «Raubtier»\")"
+    },
+    {
+      "role": "dpadrol:caption-extended",
+      "description": "ARCHIV - 07.12.2019, USA, Newport News: Caroline Kennedy, Tochter des ehemaligen US-Präsidenten Kennedy, aufgenommen vor der Taufe des nuklearen Flugzeugträgers John F. Kennedy bei Newport News Shipbuilding. (zu dpa \"Cousine warnt vor Ministeramt für Kennedy Jr.: «Raubtier»\") Foto: Steve Helber/AP/dpa +++ dpa-Bildfunk +++"
+    }
+  ],
+  "associations": [
+    {
+      "type": "image",
+      "urn": "urn:newsml:dpa.com:20090101:250129-99-739668",
+      "version": 1,
+      "rank": 1,
+      "version_created": "2025-01-29T15:15:29.367567Z",
+      "headline": "Caroline Kennedy",
+      "is_featureimage": true,
+      "caption": "Caroline Kennedy, Tochter des ehemaligen US-Präsidenten Kennedy, aufgenommen vor der Taufe des nuklearen Flugzeugträgers John F. Kennedy bei Newport News Shipbuilding. (zu dpa \"Cousine warnt vor Ministeramt für Kennedy Jr.: «Raubtier»\")",
+      "creditline": "Steve Helber/AP/dpa",
+      "renditions": [
+        {
+          "size": 2048,
+          "width": 2048,
+          "height": 1365,
+          "fovealarea": null,
+          "mimetype": "image/jpeg",
+          "url": "https://d3hzhyitlnc455.cloudfront.net/v3/image/resize/urn:newsml:dpa.com:20090101:250129-99-739668-v1-s2048.jpeg?signature=Gz5jOfmwWOfNlPAsKy83vB_nHDc&expires=1738368000"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "type": "dnltype:signal",
+      "name": "correction",
+      "qcode": "sig:correction"
+    },
+    {
+      "type": "dnltype:pubstatus",
+      "name": "usable",
+      "qcode": "stat:usable"
+    },
+    {
+      "type": "dnltype:wire",
+      "name": "bbasis",
+      "qcode": "dpasrv:bbasis"
+    },
+    {
+      "type": "dnltype:wire",
+      "name": "photostream-de",
+      "qcode": "dpasrv:photostream-de"
+    },
+    {
+      "type": "dnltype:wire",
+      "name": "photostream-de-3p",
+      "qcode": "dpasrv:photostream-de-3p"
+    },
+    {
+      "type": "dnltype:creator",
+      "name": "Steve Helber",
+      "qcode": "dpaaccno:B4601",
+      "role": null
+    },
+    {
+      "type": "dnltype:infosource",
+      "name": "dpa",
+      "qcode": "dpasupplier:dpa",
+      "role": "dpaisrol:supplier"
+    },
+    {
+      "type": "dnltype:infosource",
+      "name": "AP",
+      "qcode": "dpacprh:ap",
+      "role": "isrol:contentSource"
+    },
+    {
+      "type": "dnltype:dpasubject",
+      "name": "Gesundheit",
+      "qcode": "dpasubject:346",
+      "rank": 1
+    },
+    {
+      "type": "dnltype:dpasubject",
+      "name": "Regierung",
+      "qcode": "dpasubject:594",
+      "rank": 2
+    },
+    {
+      "type": "dnltype:dpasubject",
+      "name": "Personalien",
+      "qcode": "dpasubject:261",
+      "rank": 3
+    },
+    {
+      "type": "dnltype:keyword",
+      "name": "USA",
+      "qcode": null,
+      "rank": 1
+    },
+    {
+      "type": "dnltype:desk",
+      "name": "Politik",
+      "qcode": "dpacat:pl"
+    },
+    {
+      "type": "dnltype:genre",
+      "name": "Einzel",
+      "qcode": "dpascn:6"
+    },
+    {
+      "type": "dnltype:genre",
+      "name": "archive",
+      "qcode": "dpaimagekind:archive"
+    },
+    {
+      "type": "dnltype:locationcreated",
+      "name": "Newport News",
+      "qcode": null,
+      "geojson": {
+        "type": "Feature",
+        "properties": {
+          "locality": "Newport News",
+          "country": "USA"
+        }
+      }
+    },
+    {
+      "type": "dnltype:urgency",
+      "name": "3",
+      "qcode": "urgency:3"
+    },
+    {
+      "type": "dnltype:person",
+      "name": "Caroline Kennedy",
+      "qcode": null
+    },
+    {
+      "type": "dnltype:provider",
+      "name": "dpa",
+      "qcode": "dnlprov:dpa"
+    }
+  ],
+  "current_rubric_names": [],
+  "rubric_names": [],
+  "dpasubject_names": [
+    "Gesundheit",
+    "Regierung",
+    "Personalien"
+  ],
+  "geosubject_names": [],
+  "keyword_names": [
+    "USA"
+  ],
+  "desk_names": [
+    "pl"
+  ],
+  "genre_names": [
+    "Einzel"
+  ],
+  "poi_names": [
+    null
+  ],
+  "scope_names": []
+}

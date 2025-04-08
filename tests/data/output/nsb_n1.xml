@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:dpa.com:20090101:240925-930-243473" standard="NewsML-G2" standardversion="2.32"
+                  version="1" xml:lang="de">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <copyrightNotice>Copyright 2024, dpa (www.dpa.de). Alle Rechte vorbehalten</copyrightNotice>
+                    <usageTerms>Nutzung nur nach schriftlicher Vereinbarung mit dpa
+Use only with the written agreement with dpa</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:text"/>
+                <provider qcode="dnlprov:dpa">
+                    <name>dpa</name>
+                </provider>
+                <versionCreated>2024-09-25T18:52:17+02:00</versionCreated>
+                    <pubStatus qcode="stat:usable">
+                        <name>usable</name>
+                    </pubStatus>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:nsb">
+                            <name>nsb</name>
+                    </service>
+                    <edNote role="dpaednoterole:closingline" >dpa koe yyno n1 sck</edNote>
+                    <edNote role="dpaednoterole:editorialnote" >Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:</edNote>
+                    <edNote role="dpaednoterole:editorialnote" >ICE</edNote>
+                    <edNote role="dpaednoterole:dpacontacts" pubconstraint="dpapconstraint:nonpublic">Autor/in: Britta Körber (Lüneburg) 0171 5578772, koerber.britta@dpa.com</edNote>
+                    <edNote role="dpaednoterole:dpacontacts" pubconstraint="dpapconstraint:nonpublic">Redaktion: Sophia-Caroline Kosel (Berlin) 030/2852 30002, kosel.sophia-caroline@dpa.com</edNote>
+                    <edNote role="dpaednoterole:picture" >Foto Illustration</edNote>
+                    <edNote role="dpaednoterole:notepad">
+                        <section xmlns="http://www.w3.org/1999/xhtml" class="notepad">
+<header><h3>Notizblock</h3></header><section class="np-public"><h4>Redaktionelle Hinweise</h4><ul><li>Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:</li><li>ICE</li></ul><h4>Internet</h4><ul><li><a href="https://dpaq.de/m8aupW3">Post auf X der Westfalenbahn</a></li></ul><h4>Orte</h4><ul><li>[Peine](31 Peine, Deutschland)</li></ul></section><section class="np-nonpublic"><p>Die folgenden Informationen sind nicht zur Veröffentlichung bestimmt</p><h4>Kontakte</h4><ul><li>Autor/in: Britta Körber (Lüneburg) 0171 5578772, koerber.britta@dpa.com</li><li>Redaktion: Sophia-Caroline Kosel (Berlin) 030/2852 30002, kosel.sophia-caroline@dpa.com</li></ul></section><p class="closingline">dpa koe yyno n1 sck</p>                        </section>
+                    </edNote>
+                    <link rel="irel:seeAlso" rank="1" href="https://dpaq.de/m8aupW3">
+                        <title>Post auf X der Westfalenbahn</title>
+                    </link>
+            </itemMeta>
+            <contentMeta>
+                <urgency>4</urgency>
+
+
+                    <creator >
+                            <name>kosel</name>
+                    </creator>
+
+                    <contributor qcode="dpa-ad:kosel">
+                            <name>kosel</name>
+                    </contributor>
+
+                    <genre qcode="dpatextgenre:1">
+                        <name>Meldung</name>
+                    </genre>
+
+                    <subject qcode="dpacat:vm" type="dpatype:category">
+                            <name>vm</name>
+                    </subject>
+                    <subject qcode="dpaarea:9" type="cpnat:geoArea" rank="1">
+                            <name>Niedersachsen</name>
+                    </subject>
+                    <subject qcode="dpasubject:232" type="dpatype:dpasubject" rank="1">
+                            <name>Verkehr</name>
+                    </subject>
+                    <subject qcode="medtop:20000340" type="dpatype:dpasubject" rank="2">
+                            <name>Bahn</name>
+                    </subject>
+                        <subject literal="poiID0" rank="1" type="cpnat:poi">
+                                <name>Peine</name>
+                        </subject>
+
+                
+                
+                <language tag="de"/>
+
+                <headline rank="1">Baum auf Bahnstrecke bei Peine - Verspätungen</headline>
+                <headline rank="3">Behinderung auf Strecke</headline>
+                <dateline>Peine (dpa/lni) - </dateline>
+                
+                <creditline>dpa</creditline>
+                <description role="drol:teaser">Ein umgestürzter Baum behindert den Bahnverkehr zwischen Peine und Hämelerwald. Berufspendler mussten am Abend Geduld haben.</description>                                
+            </contentMeta>
+                    <assert literal="poiID0">
+                        <POIDetails>
+                            <position latitude="52.32041" longitude="10.24327"/>
+                            <address>
+                                <line role="nrol:display">Peine</line>
+                                <line role="nrol:full">31 Peine, Deutschland</line>
+                                <locality role="dpalocalityrole:locality">
+                                    <name>Peine</name>
+                                </locality>
+                                <area role="dpaarearole:area">
+                                <name>31 Peine, Deutschland</name>
+                                </area>
+                                <country type="cpnat:geoArea">
+                                    <name>Deutschland</name>
+                                </country>
+                            </address>
+                        </POIDetails>
+                    </assert>
+            <contentSet>
+                    <inlineXML contenttype="application/xhtml+xml">
+                        <html xmlns="http://www.w3.org/1999/xhtml">
+                        <head>
+                            <meta charset="utf-8"/>
+                            <title>Baum auf Bahnstrecke bei Peine - Verspätungen</title>
+                        </head>
+                        <body>
+                        <header>
+                            <time class="publicationDate"
+                                  data-datetime="2024-09-25T18:52:17+02:00">25.09.2024 18:52</time>
+                                <ul class="slugline">
+                                        <li class="subject"
+                                            data-qcode="dpasubject:232">Verkehr</li>
+                                        <li class="subject"
+                                            data-qcode="medtop:20000340">Bahn</li>
+                                        <li class="geo"
+                                            data-qcode="dpaarea:9">Niedersachsen</li>
+                                </ul>
+                                <h1>Baum auf Bahnstrecke bei Peine - Verspätungen</h1>
+                                <h3>Behinderung auf Strecke</h3>
+                        </header>
+                        <section class="main dpatextgenre_1">
+                                <p class="teaser">Ein umgestürzter Baum behindert den Bahnverkehr zwischen Peine und Hämelerwald. Berufspendler mussten am Abend Geduld haben.</p>
+                                <p><span class="dateline">Peine <span class="credit">(dpa/lni)</span> - </span>Ein umgestürzter Baum hat auf der Bahnstrecke zwischen Hämelerwald und Peine vorübergehend für eine Vollsperrung gesorgt. Die Fernzüge wurden seit 16.00 Uhr über Hildesheim umgeleitet, wie ein Bahnsprecher sagte. Im Fernverkehr gab es Verspätungen. Die Westfalenbahn informierte auf X, dass Regionalzüge nicht fahren und auf die Freigabe der Strecke warten. Am Abend wurde das Gleis in Richtung Hannover wieder entsperrt, die Gegenstrecke sollte zeitnah folgen, ergänzte der Sprecher. </p>
+                        </section>
+                        </body>
+                        </html>
+                    </inlineXML>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

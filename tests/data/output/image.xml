@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:dpa.com:20090101:250129-99-739668" standard="NewsML-G2" standardversion="2.32"
+                  version="4" xml:lang="de">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <usageTerms>Nutzung nur nach vertraglicher Vereinbarung</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:picture"/>
+                <provider qcode="dnlprov:dpa">
+                    <name>dpa</name>
+                </provider>
+                <versionCreated>2025-01-29T07:36:58+01:00</versionCreated>
+                    <pubStatus qcode="stat:usable">
+                        <name>usable</name>
+                    </pubStatus>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:bbasis">
+                            <name>bbasis</name>
+                    </service>
+                    <service qcode="dpasrv:photostream-de">
+                            <name>photostream-de</name>
+                    </service>
+                    <service qcode="dpasrv:photostream-de-3p">
+                            <name>photostream-de-3p</name>
+                    </service>
+                    <edNote pubconstraint="dpapconstraint:nonpublic">FILE PHOTO -Ortsname korrigiert</edNote>
+                        <signal qcode="sig:correction"/>
+            </itemMeta>
+            <contentMeta>
+                <urgency>3</urgency>
+                    <contentCreated>2019-12-07</contentCreated>
+
+                        <infoSource role="dpaisrol:supplier" qcode="dpasupplier:dpa">
+                            <name>dpa</name>
+                        </infoSource>
+                        <infoSource role="isrol:contentSource" qcode="dpacprh:ap">
+                            <name>AP</name>
+                        </infoSource>
+
+                    <creator qcode="dpaaccno:B4601">
+                            <name>Steve Helber</name>
+                    </creator>
+
+
+                    <genre qcode="dpascn:6">
+                        <name>Einzel</name>
+                    </genre>
+
+                    <subject qcode="dpacat:pl" type="dpatype:category">
+                            <name>Politik</name>
+                    </subject>
+                    <subject qcode="dpasubject:346" type="dpatype:dpasubject" rank="1">
+                            <name>Gesundheit</name>
+                    </subject>
+                    <subject qcode="dpasubject:594" type="dpatype:dpasubject" rank="2">
+                            <name>Regierung</name>
+                    </subject>
+                    <subject qcode="dpasubject:261" type="dpatype:dpasubject" rank="3">
+                            <name>Personalien</name>
+                    </subject>
+
+                
+                <keyword rank="1">USA</keyword>
+                
+                <language tag="de"/>
+
+                <headline rank="1">Caroline Kennedy</headline>
+                
+                
+                
+                <creditline>Steve Helber/AP/dpa</creditline>
+                                                <description role="drol:caption">Caroline Kennedy, Tochter des ehemaligen US-Präsidenten Kennedy, aufgenommen vor der Taufe des nuklearen Flugzeugträgers John F. Kennedy bei Newport News Shipbuilding. (zu dpa &#34;Cousine warnt vor Ministeramt für Kennedy Jr.: «Raubtier»&#34;)</description><description role="dpadrol:caption-extended">ARCHIV - 07.12.2019, USA, Newport News: Caroline Kennedy, Tochter des ehemaligen US-Präsidenten Kennedy, aufgenommen vor der Taufe des nuklearen Flugzeugträgers John F. Kennedy bei Newport News Shipbuilding. (zu dpa &#34;Cousine warnt vor Ministeramt für Kennedy Jr.: «Raubtier»&#34;) Foto: Steve Helber/AP/dpa +++ dpa-Bildfunk +++</description>
+            </contentMeta>
+            <contentSet>
+                        <remoteContent contenttype="image/jpeg" href="https://d3hzhyitlnc455.cloudfront.net/v3/image/resize/urn:newsml:dpa.com:20090101:250129-99-739668-v1-s2048.jpeg?signature=Gz5jOfmwWOfNlPAsKy83vB_nHDc&amp;expires=1738368000" width="2048" height="1365"/>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:ap.org:20230101:cd1ee53edee0df1bf00de01b044366b4" standard="NewsML-G2" standardversion="2.32"
+                  version="4" xml:lang="en">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <copyrightNotice>Copyright 2024 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.</copyrightNotice>
+                    <usageTerms>This content is intended for editorial use only. For other uses, additional clearances may be required.</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:text"/>
+                <provider qcode="dnlprov:ap">
+                    <name>ap</name>
+                </provider>
+                <versionCreated>2024-11-21T11:13:20+01:00</versionCreated>
+                    <pubStatus qcode="stat:usable">
+                        <name>usable</name>
+                    </pubStatus>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:apwire">
+                            <name>apwire</name>
+                    </service>
+                    <edNote role="dnlrole:ap.ednote" pubconstraint="dpapconstraint:nonpublic">Eds: CORRECTS: Indian tycoon is one of the richest men in Asia. Adds Adani Group&#39;s statement, quotes from Indian opposition leader</edNote>
+                        <signal qcode="apsig:newscontent"/>
+                    <link rel="irel:seeAlso" rank="1" residref="urn:newsml:ap.org:20230101:216d9149714c4d5e853c77b187cc9a01" href="https://d1vdx0puhh6tge.cloudfront.net/v4/imgresize/crlpre4ap/docid/urn:newsml:ap.org:20230101:216d9149714c4d5e853c77b187cc9a01/ghqm2mb6dp-v1-ax-s2048.jpeg?signature=XqehoqYn7T0yHb5wxEjrgE5lYsg&amp;expires=1732320000" version="1">
+                        <itemClass qcode="ninat:picture"/>
+                        <title>India US Adani Bribery Indictment</title>
+                    </link>
+                    <link rel="irel:seeAlso" rank="2" residref="urn:newsml:ap.org:20230101:6157eabe8e1d4b63bfb03354adff891e" href="https://d1vdx0puhh6tge.cloudfront.net/v4/imgresize/crlpre4ap/docid/urn:newsml:ap.org:20230101:6157eabe8e1d4b63bfb03354adff891e/nh2q6rncni-v1-ax-s2048.jpeg?signature=U-MXGPYLdnVUGglKLaiRNtykh1E&amp;expires=1732320000" version="1">
+                        <itemClass qcode="ninat:picture"/>
+                        <title>India Adani Bribery Indictment</title>
+                    </link>
+                    <link rel="irel:seeAlso" rank="3" residref="urn:newsml:ap.org:20230101:a5e655fdfdcb4efa872f5435179d2543" href="https://d1vdx0puhh6tge.cloudfront.net/v4/imgresize/crlpre4ap/docid/urn:newsml:ap.org:20230101:a5e655fdfdcb4efa872f5435179d2543/j2ega74jhd-v1-ax-s2048.jpeg?signature=aQBn8RSig9zA4eESldG4zDCmTm4&amp;expires=1732320000" version="1">
+                        <itemClass qcode="ninat:picture"/>
+                        <title>Adani Bribery Indictment</title>
+                    </link>
+                    <link rel="irel:seeAlso" rank="4" residref="urn:newsml:ap.org:20230101:35ffc7b2b294411a88b63999289404ab" href="https://d1vdx0puhh6tge.cloudfront.net/v4/imgresize/crlpre4ap/docid/urn:newsml:ap.org:20230101:35ffc7b2b294411a88b63999289404ab/d7t7hi6w67-v1-ax-s2048.jpeg?signature=fAXvEUt4uI3zO2CMOr1rdahU4OE&amp;expires=1732320000" version="1">
+                        <itemClass qcode="ninat:picture"/>
+                        <title>India US Adani Bribery Indictment</title>
+                    </link>
+                    <link rel="irel:seeAlso" rank="5" residref="urn:newsml:ap.org:20230101:33842630aaf84be9a511f674bc41091a" href="https://d1vdx0puhh6tge.cloudfront.net/v4/imgresize/crlpre4ap/docid/urn:newsml:ap.org:20230101:33842630aaf84be9a511f674bc41091a/3t4garpev4-v1-ax-s2048.jpeg?signature=sCyCwh4soeHf71qmyYUKAFEzUEU&amp;expires=1732320000" version="1">
+                        <itemClass qcode="ninat:picture"/>
+                        <title>India US Adani Bribery Indictment</title>
+                    </link>
+            </itemMeta>
+            <contentMeta>
+                <urgency>4</urgency>
+                        <located>
+                            <name>New Delhi</name>
+                        </located>
+
+                        <infoSource role="crole:source">
+                            <name>AP</name>
+                        </infoSource>
+
+                    <creator >
+                            <name>By ASHOK SHARMA</name>
+                    </creator>
+
+
+                    <genre qcode="dnlgenre:ap.editorialrole.fullstory">
+                        <name>FullStory</name>
+                    </genre>
+
+                    <subject qcode="dpacat:wi" type="dpatype:category">
+                            <name>economics</name>
+                    </subject>
+                    <subject qcode="apgeo:9d9760d07ec110048d15df092526b43e" type="cpnat:geoArea">
+                            <name>Mumbai</name>
+                    </subject>
+                    <subject qcode="apgeo:5a3cb010464d49c59bdd7b2199fda4a0" type="cpnat:geoArea">
+                            <name>Ahmedabad</name>
+                    </subject>
+                    <subject qcode="apgeo:661812607d5b100481f3c076b8e3055c" type="cpnat:geoArea">
+                            <name>Asia</name>
+                    </subject>
+                    <subject qcode="apgeo:661f3a687d5b100482a7c076b8e3055c" type="cpnat:geoArea">
+                            <name>India</name>
+                    </subject>
+
+                
+                <keyword >adani india bribery tycoon modi</keyword>
+                
+                <language tag="en"/>
+
+                <headline rank="1">Shares in India&#39;s Adani Group plunge 20% after US bribery, fraud indictments</headline>
+                
+                
+                <by>By ASHOK SHARMA</by>
+                <creditline>ASSOCIATED PRESS</creditline>
+                                                
+            </contentMeta>
+            <contentSet>
+                    <inlineXML contenttype="application/xhtml+xml">
+                        <html xmlns="http://www.w3.org/1999/xhtml">
+                        <head>
+                            <meta charset="utf-8"/>
+                            <title>Shares in India&#39;s Adani Group plunge 20% after US bribery, fraud indictments</title>
+                        </head>
+                        <body>
+                        <header>
+                            <time class="publicationDate"
+                                  data-datetime="2024-11-21T11:13:20+01:00">21.11.2024 11:13</time>
+                                <ul class="slugline">
+                                        <li class="geo"
+                                            data-qcode="apgeo:9d9760d07ec110048d15df092526b43e">Mumbai</li>
+                                        <li class="geo"
+                                            data-qcode="apgeo:5a3cb010464d49c59bdd7b2199fda4a0">Ahmedabad</li>
+                                        <li class="geo"
+                                            data-qcode="apgeo:661812607d5b100481f3c076b8e3055c">Asia</li>
+                                        <li class="geo"
+                                            data-qcode="apgeo:661f3a687d5b100482a7c076b8e3055c">India</li>
+                                        <li class="keyword"
+                                            >adani india bribery tycoon modi</li>
+                                </ul>
+                                <h1>Shares in India&#39;s Adani Group plunge 20% after US bribery, fraud indictments</h1>
+                                <p class="byline">By ASHOK SHARMA</p>
+                        </header>
+                        <section class="main dnlgenre_ap.editorialrole.fullstory">
+                                <p>One of Asia’s richest men, controversial Indian tycoon Gautam Adani, is again in the spotlight. His companies’ stocks plunged up to 20% on Thursday after he was indicted by U.S. prosecutors on charges he duped investors in a massive solar energy project in India by concealing that it was being facilitated by an alleged bribery scheme. </p>
+                                <p>In an indictment unsealed by federal prosecutors in New York on Wednesday, Adani, 62, was charged with securities fraud and conspiracy to commit securities and wire fraud.</p>
+                                <p>One result of the U.S. legal action is that the Adani group decided not to proceed with a proposed U.S. dollar-denominated bond offering. Adani Renewables announced the decision in letters to the Bombay Stock Exchange and the National Stock Exchange of India.</p>
+                                <p>In a statement, the group said the allegations against directors of Adani Green “are baseless and denied.” The U.S. Department of Justice said “the charges in the indictment are allegations, and the defendants are presumed innocent unless and until proven guilty.” </p>
+                                <h2>Who is Gautam Adani?</h2>
+                                <p>Adani is the son of a middle-class family in Ahmedabad in western India’s Gujarat state. He quit college to become a diamond trader in Mumbai, India’s financial capital. In the 1980s, he started importing plastics before establishing Adani Enterprises, which traded in everything from shoes to buckets and remains his flagship company.</p>
+                                <p>India opened up its economy in the 1990s and a new middle class emerged as tens of millions of people escaped poverty and the economy boomed, prompting Adani to bet on infrastructure and coal.</p>
+                                <p>Adani’s first big project, the Mundra port in Gujarat, opened in 1998 and is now India’s largest. Adani Ports and Special Economic Zone Ltd. is India’s biggest private port operator. Within a decade, Adani became India’s largest developer and operator of coal mines. According to Adani Power’s website, it has expanded to Australia and Indonesia and is on track to be “one of the largest mining groups in the world.”</p>
+                                <p>Adani companies, India's second-largest conglomerate, operate airports in major cities, build roads, generate electricity, manufacture defense equipment, develop agricultural drones, sell cooking oil and run a media outlet. Despite his fossil fuel roots, the billionaire Adani Green aims to become the world’s largest renewable energy player by 2030. </p>
+                                <h2>Why is Adani controversial?</h2>
+                                <p>Adani is considered close to the Hindu nationalist government, and the political opposition has long accused Prime Minister Narendra Modi of having close ties with the tycoon. They both hail from the western state of Gujarat.</p>
+                                <p>The businessman's critics say much of his success stems from his close ties to the government and Modi. For example, they have accused the government of adjusting bidding rules to make it easier for Adani to win contracts to operate airports. The company denies this, saying contracts were won relatively transparently.</p>
+                                <p>Opposition Congress party leader Rahul Gandhi called for Adani’s arrest for his criminal acts in the United States and India and has accused Modi of protecting him.</p>
+                                <p>India’s main opposition also demanded a parliamentary committee probe into Adani Group dealings, which Jairam Ramesh, a leader of the Congress Party, said are causing "growing monopolization in key sectors of the Indian economy, fueling inflation, and posing huge foreign policy challenges as well.”</p>
+                                <p>Ramesh said his party has been "bringing out the various dimensions of these scams and the intimate nexus between the PM (Modi) and his favorite businessman. These questions have remained unanswered.”</p>
+                                <p>Last year, the Adani companies lost $68 billion in market value after short-selling firm Hindenburg Research accused Adani of “pulling the largest con in corporate history,” triggering a massive sell-off of the group's stocks.</p>
+                                <p>U.S.-based Hindenburg accused Adani companies of stock price manipulation and fraud just as the group began a share offering meant to raise $2.5 billion.</p>
+                                <p>The Adani group dismissed Hindenburg’s allegations, saying none were “based on independent or journalistic fact finding.” Adani’s response included documents and data tables and it said the group had made all necessary regulatory disclosures and has abided by local laws.</p>
+                                <h2>How Adani became Asia's richest man</h2>
+                                <p>Adani’s net worth shot up about 2,000% in recent years as share prices for his listed companies soared.</p>
+                                <p>Before Modi took office, Adani was friendly with the rival Congress Party, which governed Gujarat state when many of his early projects began. Adani has been “close to every politician in power,” R N Bhaskar, a journalist who wrote a biography on Adani, told The Associated Press.</p>
+                                <p>Adani’s supporters say he has cleverly aligned the group’s priorities with those of the government by investing in key industries like renewable energy, defense, and agriculture. His projects overseas, in strategically important countries like neighboring Sri Lanka, help New Delhi compete with rival Beijing in the region.</p>
+                        </section>
+                        </body>
+                        </html>
+                    </inlineXML>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

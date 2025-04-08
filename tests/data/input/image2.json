@@ -1,0 +1,158 @@
+{
+  "format": "digitalwires@0.9.1",
+  "type": "composite",
+  "entry_id": "IABrCiVOW6hJcu4BlrWQT4oNuwqkDMWTE0nZm1o7Pw",
+  "updated": "2025-02-05T15:07:46Z",
+  "urn": "urn:newsml:dpa.com:20090101:250205-935-439001",
+  "version_created": "2025-02-05T11:58:26+01:00",
+  "version": 1,
+  "pubstatus": "usable",
+  "signal": null,
+  "embargoed": null,
+  "content_created": "2024-04-29",
+  "language": "de",
+  "urgency": 2,
+  "kicker": null,
+  "headline": "Online-Plattform Shein",
+  "subhead": null,
+  "teaser": null,
+  "byline": "Monika Skolimowska",
+  "dateline": null,
+  "article_html": null,
+  "infobox_html": null,
+  "linkbox_html": null,
+  "creditline": "Monika Skolimowska/dpa",
+  "copyrightnotice": null,
+  "usageterms": "Nutzung nur nach vertraglicher Vereinbarung",
+  "autopublishnotice": null,
+  "notepad": null,
+  "ednotes": [],
+  "descriptions": [
+    {
+      "role": "drol:caption",
+      "description": "Die Website von Shein ist auf einem Laptop zu sehen. (zu dpa: «Brüssel eröffnet Untersuchung gegen Online-Marktplatz Shein»)"
+    }
+  ],
+  "associations": [
+    {
+      "type": "image",
+      "urn": "urn:newsml:dpa.com:20090101:250205-935-439001",
+      "version": 1,
+      "rank": 1,
+      "version_created": "2025-02-05T15:07:29.371723Z",
+      "headline": "Online-Plattform Shein",
+      "is_featureimage": true,
+      "caption": "Die Website von Shein ist auf einem Laptop zu sehen. (zu dpa: «Brüssel eröffnet Untersuchung gegen Online-Marktplatz Shein»)",
+      "creditline": "Monika Skolimowska/dpa",
+      "renditions": [
+        {
+          "size": 2048,
+          "width": 2048,
+          "height": 1151,
+          "fovealarea": {
+            "left": 0,
+            "top": 0,
+            "right": 743,
+            "bottom": 1151
+          },
+          "mimetype": "image/jpeg",
+          "url": "https://d1vdx0puhh6tge.cloudfront.net/v4/imgresize/crlpre3dwx/docid/urn:newsml:dpa.com:20090101:250205-935-439001/5r5qu7zna2-v1-ax-s2048.jpeg?signature=ldkQ7WwfCqLMAZLXN8s-cOgOw-c&expires=1738972800"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "type": "dnltype:pubstatus",
+      "name": "usable",
+      "qcode": "stat:usable"
+    },
+    {
+      "type": "dnltype:wire",
+      "name": "labwire-media",
+      "qcode": "dpasrv:labwire-media"
+    },
+    {
+      "type": "dnltype:creator",
+      "name": "Monika Skolimowska",
+      "qcode": null,
+      "role": null
+    },
+    {
+      "type": "dnltype:dpasubject",
+      "name": "Internet",
+      "qcode": "dpasubject:377",
+      "rank": 1
+    },
+    {
+      "type": "dnltype:dpasubject",
+      "name": "Verbraucher",
+      "qcode": "dpasubject:425",
+      "rank": 2
+    },
+    {
+      "type": "dnltype:dpasubject",
+      "name": "EU",
+      "qcode": "dpasubject:157",
+      "rank": 3
+    },
+    {
+      "type": "dnltype:dpasubject",
+      "name": "Handel",
+      "qcode": "dpasubject:446",
+      "rank": 4
+    },
+    {
+      "type": "dnltype:desk",
+      "name": "Wirtschaft",
+      "qcode": "dpacat:wi"
+    },
+    {
+      "type": "dnltype:genre",
+      "name": "Archiv",
+      "qcode": "dpaimagekind:archive"
+    },
+    {
+      "type": "dnltype:locationcreated",
+      "name": "Aufnahmeort,Berlin,Berlin,Deutschland",
+      "qcode": null,
+      "geojson": {
+        "geometry": null,
+        "type": "Feature",
+        "properties": {
+          "country": "Deutschland",
+          "administrative_area_level_1": "Berlin",
+          "locality": "Berlin"
+        }
+      }
+    },
+    {
+      "type": "dnltype:urgency",
+      "name": "2",
+      "qcode": "urgency:2"
+    },
+    {
+      "type": "dnltype:provider",
+      "name": "dpa",
+      "qcode": "dnlprov:dpa"
+    }
+  ],
+  "current_rubric_names": [],
+  "rubric_names": [],
+  "dpasubject_names": [
+    "Internet",
+    "Verbraucher",
+    "EU",
+    "Handel"
+  ],
+  "geosubject_names": [],
+  "keyword_names": [],
+  "desk_names": [
+    "wi"
+  ],
+  "genre_names": [
+    "Archiv"
+  ],
+  "poi_names": [],
+  "scope_names": []
+}

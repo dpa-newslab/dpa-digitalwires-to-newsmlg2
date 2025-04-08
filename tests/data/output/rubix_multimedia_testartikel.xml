@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:dpa.com:20090101:241022-930-267047" standard="NewsML-G2" standardversion="2.32"
+                  version="1" xml:lang="de">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <copyrightNotice>Copyright 2024, dpa (www.dpa.de). Alle Rechte vorbehalten</copyrightNotice>
+                    <usageTerms>Nutzung nur nach schriftlicher Vereinbarung mit dpa</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:text"/>
+                <provider qcode="dnlprov:dpa">
+                    <name>dpa</name>
+                </provider>
+                <versionCreated>2024-10-22T11:09:58+02:00</versionCreated>
+                    <embargoed>2024-10-22T11:30:00+02:00</embargoed>
+                    <pubStatus qcode="stat:usable">
+                        <name>usable</name>
+                    </pubStatus>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:bdt">
+                            <name>bdt</name>
+                    </service>
+                    <edNote role="dpaednoterole:genrenote" >Multimedialer Test-Artikel</edNote>
+                    <edNote role="dpaednoterole:editorialnote" >Weitere Zusammenfassung bis 1530 - ca. 60 Zl</edNote>
+                    <edNote role="dpaednoterole:editorialnote" >Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:
+Herbst in Niedersachsen
+Herbstwetter in Bayern</edNote>
+                    <edNote role="dpaednoterole:embargo" >Nicht vor 22.10.2024, 11:30 Uhr verwenden</edNote>
+                    <edNote role="dpaednoterole:edservice" >Für weitere Informationen zum Thema nehmen Sie bitte Kontakt mit dem Support der dpa auf.</edNote>
+                    <edNote role="dpaednoterole:dpacontacts" pubconstraint="dpapconstraint:nonpublic">Autor/in: dpa-Redaktion (Berlin), +49 30 2852 0, berlin@dpa.com</edNote>
+                    <edNote role="dpaednoterole:dpacontacts" pubconstraint="dpapconstraint:nonpublic">Redaktion: dpa-Redaktion (Berlin), +49 30 2852 0, berlin@dpa.com</edNote>
+                    <edNote role="dpaednoterole:contacts" pubconstraint="dpapconstraint:nonpublic">Ansprechpartner 1, +49 1234 5678912, ap.1@example.com</edNote>
+                    <edNote role="dpaednoterole:contacts" pubconstraint="dpapconstraint:nonpublic">Ansprechpartnerin 2, +49 1234 89712, ansprech.partnerin@beispiel.org</edNote>
+                    <edNote role="dpaednoterole:picture" >Foto Archiv</edNote>
+                    <edNote role="dpaednoterole:closingline" >dpa dnl lbwr z2 dnl</edNote>
+                    <edNote role="dpaednoterole:notepad">
+                        <section xmlns="http://www.w3.org/1999/xhtml" class="notepad">
+<header><h3>Notizblock</h3></header><section class="np-public"><h4>Redaktionelle Hinweise</h4><ul><li class="embargoed">Sperrfrist 22. Oktober 09.30 Uhr</li><li>Weitere Zusammenfassung bis 1530 - ca. 60 Zl</li><li>Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:<ul><li>Herbst in Niedersachsen</li><li>Herbstwetter in Bayern</li></ul></li></ul><h4>Orte</h4><ul><li>[dpa Deutsche Presse-Agentur GmbH] (Mittelweg 38, 20148 Hamburg, Deutschland)</li><li>[Redaktion, dpa Deutsche Presse-Agentur GmbH] (Rudi-Dutschke-Straße 2, 10969 Berlin, Deutschland)</li></ul><h4>Internet</h4><ul><li><a href="https://www.dpa.com/de">Website der dpa</a></li></ul></section><section class="np-nonpublic"><p class="np-constraint">Die folgenden Informationen sind nicht zur Veröffentlichung bestimmt</p><h4>Ansprechpartner</h4><ul><li>Ansprechpartner 1, +49 1234 5678912, <a href="mailto:ap.1@example.com">ap.1@example.com</a>, Ansprechpartnerin 2, +49 1234 89712, <a href="mailto:ansprech.partnerin@beispiel.org">ansprech.partnerin@beispiel.org</a></li></ul><h4>Kontakte</h4><ul><li>Autor/in: dpa-Redaktion (Berlin), +49 30 2852 0, <a href="mailto:berlin@dpa.com">berlin@dpa.com</a></li><li>Redaktion: dpa-Redaktion (Berlin), +49 30 2852 0, <a href="mailto:berlin@dpa.com">berlin@dpa.com</a></li></ul></section><p class="closingline">dpa dnl lbwr z2 dnl</p>                        </section>
+                    </edNote>
+                    <link rel="irel:seeAlso" rank="1" residref="urn:newsml:dpa.com:20090101:241022-935-299326" href="https://d1vdx0puhh6tge.cloudfront.net/v4/imgresize/crlpre3dwx/docid/urn:newsml:dpa.com:20090101:241022-935-299326/j4tccwcmsk-v9-ax-s2048.jpeg?signature=Vgp5N-3oUb3-tL4GZDSAMNOxov0&amp;expires=1729728000" version="9">
+                        <itemClass qcode="ninat:picture"/>
+                        <title>Herbstwetter in Bayern</title>
+                    </link>
+                    <link rel="irel:seeAlso" rank="2" href="https://www.dpa.com/de">
+                        <title>Website der dpa</title>
+                    </link>
+                    <link rel="irel:seeAlso" rank="3" residref="urn:newsml:dpa.com:20090101:241022-935-299327" href="https://d1vdx0puhh6tge.cloudfront.net/v4/imgresize/crlpre3dwx/docid/urn:newsml:dpa.com:20090101:241022-935-299327/tjmovirfuj-v6-ax-s2048.jpeg?signature=_hLUuI-uaffSg74IQOvmhtnKXWM&amp;expires=1729728000" version="6">
+                        <itemClass qcode="ninat:picture"/>
+                        <title>Herbst in Niedersachsen</title>
+                    </link>
+            </itemMeta>
+            <contentMeta>
+                <urgency>4</urgency>
+
+
+                    <creator >
+                            <name>dpa-Redaktion</name>
+                    </creator>
+
+                    <contributor >
+                            <name>dpa-Redaktion</name>
+                    </contributor>
+
+                    <genre qcode="dpatextgenre:26">
+                        <name>Zusammenfassung</name>
+                    </genre>
+
+                    <subject qcode="dpacat:vm" type="dpatype:category">
+                            <name>Vermischtes</name>
+                    </subject>
+                    <subject qcode="dpacountry:1" type="cpnat:geoArea" rank="1">
+                            <name>Deutschland</name>
+                    </subject>
+                    <subject qcode="dpaarea:6" type="cpnat:geoArea" rank="2">
+                            <name>Hamburg</name>
+                    </subject>
+                    <subject qcode="dpasubject:300" type="dpatype:dpasubject" rank="1">
+                            <name>Technik</name>
+                    </subject>
+                        <subject literal="poiID0" rank="1" type="cpnat:poi">
+                                <name>dpa Deutsche Presse-Agentur GmbH</name>
+                        </subject>
+                        <subject literal="poiID1" rank="2" type="cpnat:poi">
+                                <name>Redaktion, dpa Deutsche Presse-Agentur GmbH</name>
+                        </subject>
+
+                
+                <keyword rank="1">Test</keyword>
+                <keyword rank="2">Multimedia</keyword>
+                
+                <language tag="de"/>
+
+                <headline rank="1">Labwire-Testartikel veröffentlicht</headline>
+                <headline rank="3">Alle Features auf einen Blick</headline>
+                <dateline>Hamburg (dpa) - </dateline>
+                <by>Von Thomas Est</by>
+                <creditline>dpa</creditline>
+                <description role="drol:teaser">Alle Funktionalitäten von Rubix, dwx und digitalwires im Überblick.</description>                                
+            </contentMeta>
+                    <assert literal="poiID0">
+                        <POIDetails>
+                            <position latitude="53.56991" longitude="9.9949"/>
+                            <address>
+                                <line role="nrol:display">dpa Deutsche Presse-Agentur GmbH</line>
+                                <line role="nrol:full">Mittelweg 38, 20148 Hamburg, Deutschland</line>
+                                <locality role="dpalocalityrole:locality">
+                                    <name>Hamburg</name>
+                                </locality>
+                                <area role="dpaarearole:area">
+                                <name>Mittelweg 38, 20148 Hamburg, Deutschland</name>
+                                </area>
+                                <country type="cpnat:geoArea">
+                                    <name>Deutschland</name>
+                                </country>
+                            </address>
+                        </POIDetails>
+                    </assert>
+                    <assert literal="poiID1">
+                        <POIDetails>
+                            <position latitude="52.50726" longitude="13.39612"/>
+                            <address>
+                                <line role="nrol:display">Redaktion, dpa Deutsche Presse-Agentur GmbH</line>
+                                <line role="nrol:full">Rudi-Dutschke-Straße 2, 10969 Berlin, Deutschland</line>
+                                <locality role="dpalocalityrole:locality">
+                                    <name>Berlin</name>
+                                </locality>
+                                <area role="dpaarearole:area">
+                                <name>Rudi-Dutschke-Straße 2, 10969 Berlin, Deutschland</name>
+                                </area>
+                                <country type="cpnat:geoArea">
+                                    <name>Deutschland</name>
+                                </country>
+                            </address>
+                        </POIDetails>
+                    </assert>
+            <contentSet>
+                    <inlineXML contenttype="application/xhtml+xml">
+                        <html xmlns="http://www.w3.org/1999/xhtml">
+                        <head>
+                            <meta charset="utf-8"/>
+                            <title>Labwire-Testartikel veröffentlicht</title>
+                        </head>
+                        <body>
+                        <header>
+                            <time class="publicationDate"
+                                  data-datetime="2024-10-22T11:09:58+02:00">22.10.2024 11:09</time>
+                                <ul class="slugline">
+                                        <li class="subject"
+                                            data-qcode="dpasubject:300">Technik</li>
+                                        <li class="geo"
+                                            data-qcode="dpacountry:1">Deutschland</li>
+                                        <li class="geo"
+                                            data-qcode="dpaarea:6">Hamburg</li>
+                                        <li class="keyword"
+                                            >Test</li>
+                                        <li class="keyword"
+                                            >Multimedia</li>
+                                </ul>
+                                <strong class="embargoed" data-datetime="2024-10-22T11:30:00+02:00">Nicht vor 22.10.2024, 11:30 Uhr verwenden</strong>
+                                <h1>Labwire-Testartikel veröffentlicht</h1>
+                                <h3>Alle Features auf einen Blick</h3>
+                                <p class="byline">Von Thomas Est</p>
+                        </header>
+                        <section class="main dpatextgenre_26">
+                                <p class="teaser">Alle Funktionalitäten von Rubix, dwx und digitalwires im Überblick.</p>
+                                <p><span class="dateline">Hamburg <span class="credit">(dpa)</span> - </span>Dieser Testartikel enthält alle aktuell in einem Text möglichen Funktionalitäten. Zum Beispiel:</p>
+                                <h2>Zwischentitel</h2>
+                                <p>Oder <a class="externalLink" href="https://www.dpa.com/de">Verlinkungen</a>. Enthalten sind aber auch Aufzählungen.</p>
+                                <p>Nummerierte:</p>
+                                <ol><li>Ein erster Punkt</li><li>Ein zweiter Punkt</li><li>Ein dritter Punkt</li></ol>
+                                <p>Und nicht nummerierte:</p>
+                                <ul><li>Ein Punkt</li><li>Ein weiterer Punkt</li><li>Ein ergänzender Punkt mit<br />Zeilenumbruch</li></ul>
+                                <p>Tabellen sind ebenfalls möglich:</p>
+                                <figure class="table"><table><thead><tr><th>Kopfzeile</th><th>Spalte 2</th><th>Spalte 3</th><th>Spalte 4</th></tr></thead><tbody><tr><td>Kategorie 1</td><td>Wert 1</td><td>Wert 2</td><td><p>Wert 3</p><p>mit Absatz</p></td></tr><tr><td>Kategorie 2</td><td>Wert 4</td><td>Wert 5 mit zwei Zeilen und<br />einem Linebreak</td><td>Wert 6 mit zwei Zeilen</td></tr></tbody></table></figure>
+                                <h2>Eingebettete Multimedia-Inhalte</h2>
+                                <p>Twitter begann mit diesem Post:</p>
+                                <dnl-twitterembed src="https://x.com/jack/status/20" />
+                                <p>Und YouTube mit diesem Video:</p>
+                                <dnl-youtubeembed src="https://www.youtube-nocookie.com/embed/jNQXAC9IVRw" />
+                                <p>Ein Multimedia-Inhalt kann aber auch ein Bild sein:</p>
+                                <dnl-image ref="urn:newsml:dpa.com:20090101:241022-935-299327" caption="Ein im Text positioniertes Bild." creditline="Julian Stratenschulte/dpa" />
+                                <p>Interaktive Webgrafiken sind ebenfalls möglich:</p>
+                                <dnl-wgchart src="https://webgrafik.dpa-addons.com/webgrafik/items/aktuell/2024_10_21/hierWachsenKuerbisse/cont/index.html" />
+                        </section>
+                        </body>
+                        </html>
+                    </inlineXML>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

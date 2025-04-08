@@ -1,0 +1,136 @@
+{
+  "format": "digitalwires@0.9.1",
+  "type": "composite",
+  "entry_id": "wyyZ5wlNX08smWsok1fIjh9eaKvLk7WkFoH7F9M58",
+  "updated": "2025-01-29T15:15:48Z",
+  "urn": "urn:newsml:dpa.com:20090101:audio:20250128-99-00001583",
+  "version_created": "2025-01-28T06:04:53+01:00",
+  "version": 1,
+  "pubstatus": "usable",
+  "signal": null,
+  "embargoed": null,
+  "content_created": null,
+  "language": "de",
+  "urgency": 4,
+  "kicker": null,
+  "headline": "1583/KI-Schock aus China: Kursbeben in den USA / 7.30 N",
+  "subhead": null,
+  "teaser": null,
+  "byline": null,
+  "dateline": null,
+  "article_html": null,
+  "infobox_html": null,
+  "linkbox_html": null,
+  "creditline": null,
+  "copyrightnotice": null,
+  "usageterms": "Nutzung nur nach schriftlicher Vereinbarung mit dpa",
+  "autopublishnotice": null,
+  "notepad": null,
+  "ednotes": [],
+  "descriptions": [
+    {
+      "role": "drol:caption",
+      "description": "KI-SCHOCK AUS CHINA: KURSBEBEN IN DEN USA\nEine neue KI-Anwendung aus China mit dem Namen DeepSeek hat an der Wall Street ein Kursbeben verursacht. Der Chip-Konzern Nvidia verlor an einem Tag mehr als eine halbe Billion Dollar an Börsenwert.\nSören Gieß berichtet aus den USA.\n- 7.30 N"
+    }
+  ],
+  "associations": [
+    {
+      "type": "audio",
+      "urn": "urn:newsml:dpa.com:20090101:audio:20250128-99-00001583",
+      "version": 1,
+      "rank": 1,
+      "version_created": "2025-01-28T08:49:09.729392Z",
+      "headline": "1583/KI-Schock aus China: Kursbeben in den USA / 7.30 N",
+      "caption": "KI-SCHOCK AUS CHINA: KURSBEBEN IN DEN USA\nEine neue KI-Anwendung aus China mit dem Namen DeepSeek hat an der Wall Street ein Kursbeben verursacht. Der Chip-Konzern Nvidia verlor an einem Tag mehr als eine halbe Billion Dollar an Börsenwert.\nSören Gieß berichtet aus den USA.\n- 7.30 N",
+      "renditions": [
+        {
+          "role": "raw",
+          "mimetype": "audio/mp3",
+          "url": "https://d1vdx0puhh6tge.cloudfront.net/v4/mcat/crlg/docid/urn:newsml:dpa.com:20090101:audio:20250128-99-00001583/elswerp6ms-v1-ax.mp3?signature=ixP58UhqJf83fNjDEoO5xbtgrNk&expires=1738368000",
+          "audiobitrate": 256,
+          "audiosamplerate": 48000
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "type": "dnltype:pubstatus",
+      "name": "usable",
+      "qcode": "stat:usable"
+    },
+    {
+      "type": "dnltype:wire",
+      "name": "anstueck",
+      "qcode": "dpasrv:anstueck"
+    },
+    {
+      "type": "dnltype:creator",
+      "name": "Thomas Bleskin",
+      "qcode": null,
+      "role": null
+    },
+    {
+      "type": "dnltype:infosource",
+      "name": "dpa",
+      "qcode": "dpasupplier:dpa",
+      "role": "dpaisrol:supplier"
+    },
+    {
+      "type": "dnltype:contributor",
+      "name": "tb",
+      "qcode": null,
+      "role": null
+    },
+    {
+      "type": "dnltype:dpasubject",
+      "name": "Technik",
+      "qcode": "dpasubject:300",
+      "rank": 1
+    },
+    {
+      "type": "dnltype:keyword",
+      "name": "Ausland",
+      "qcode": null,
+      "rank": 1
+    },
+    {
+      "type": "dnltype:geosubject",
+      "name": "USA",
+      "qcode": "dpacountry:184",
+      "rank": 1
+    },
+    {
+      "type": "dnltype:desk",
+      "name": "wi",
+      "qcode": "dpacat:wi"
+    },
+    {
+      "type": "dnltype:urgency",
+      "name": "4",
+      "qcode": "urgency:4"
+    },
+    {
+      "type": "dnltype:provider",
+      "name": "dpa",
+      "qcode": "dnlprov:dpa"
+    }
+  ],
+  "current_rubric_names": [],
+  "rubric_names": [],
+  "dpasubject_names": [
+    "Technik"
+  ],
+  "geosubject_names": [
+    "USA"
+  ],
+  "keyword_names": [
+    "Ausland"
+  ],
+  "desk_names": [
+    "wi"
+  ],
+  "genre_names": [],
+  "poi_names": [],
+  "scope_names": []
+}

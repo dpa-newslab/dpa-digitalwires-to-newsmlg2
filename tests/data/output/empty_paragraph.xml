@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:europapress.es:20241121:DN_2024-11-21_15-35-06" standard="NewsML-G2" standardversion="2.32"
+                  version="1" xml:lang="es">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <copyrightNotice>Copyright 2024 Europa Press. Está expresamente prohibida la redistribución y la redifusión sin el previo y expreso consentimiento de Europa Press.</copyrightNotice>
+                    <usageTerms>None</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:text"/>
+                <provider qcode="dnlprov:dpa">
+                    <name>dpa</name>
+                </provider>
+                <versionCreated>2024-11-21T15:35:06+01:00</versionCreated>
+                    <pubStatus qcode="stat:usable">
+                        <name>usable</name>
+                    </pubStatus>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:europapress-int">
+                            <name>europapress-int</name>
+                    </service>
+                    <link rel="irel:seeAlso" rank="1" residref="urn:newsml:dpa.com:20090101:europapress:photo-20241121153506" href="https://d3hzhyitlnc455.cloudfront.net/v3/image/resize/urn:newsml:dpa.com:20090101:europapress:photo-20241121153506-v1-s2048.jpeg?signature=r6Gxg27Sw1fh5U9TAMjzhtOh9f0&amp;expires=1732406400" version="1">
+                        <itemClass qcode="ninat:picture"/>
+                        <title>Archivo - Benjamin Netanyahu, Yoav Gallant y Herzi Halevi.</title>
+                    </link>
+            </itemMeta>
+            <contentMeta>
+                <urgency>4</urgency>
+
+
+
+
+
+                    <subject qcode="dpacat:pl" type="dpatype:category">
+                            <name>politics</name>
+                    </subject>
+                    <subject qcode="dpacountry:67" type="cpnat:geoArea">
+                            <name>Israel</name>
+                    </subject>
+
+                
+                <keyword >Internacional</keyword>
+                <keyword >INTERNACIONAL</keyword>
+                
+                <language tag="es"/>
+
+                <headline rank="1">AMP.- O.Próximo.- Netanyahu acusa al TPI de actuar por &#34;odio antisemita&#34; hacia Israel al ordenar su arresto</headline>
+                
+                <dateline>MADRID, 21 Nov. 2024 (Europa Press) -</dateline>
+                
+                <creditline>Europa Press</creditline>
+                <description role="drol:teaser">AMP.- O.Próximo.- Netanyahu acusa al TPI de actuar por &#34;odio antisemita&#34; hacia Israel al ordenar su arresto</description>                                
+            </contentMeta>
+            <contentSet>
+                    <inlineXML contenttype="application/xhtml+xml">
+                        <html xmlns="http://www.w3.org/1999/xhtml">
+                        <head>
+                            <meta charset="utf-8"/>
+                            <title>AMP.- O.Próximo.- Netanyahu acusa al TPI de actuar por &#34;odio antisemita&#34; hacia Israel al ordenar su arresto</title>
+                        </head>
+                        <body>
+                        <header>
+                            <time class="publicationDate"
+                                  data-datetime="2024-11-21T15:35:06+01:00">21.11.2024 15:35</time>
+                                <ul class="slugline">
+                                        <li class="geo"
+                                            data-qcode="dpacountry:67">Israel</li>
+                                        <li class="keyword"
+                                            >Internacional</li>
+                                        <li class="keyword"
+                                            >INTERNACIONAL</li>
+                                </ul>
+                                <h1>AMP.- O.Próximo.- Netanyahu acusa al TPI de actuar por &#34;odio antisemita&#34; hacia Israel al ordenar su arresto</h1>
+                        </header>
+                        <section class="main ">
+                                <p class="teaser">AMP.- O.Próximo.- Netanyahu acusa al TPI de actuar por &#34;odio antisemita&#34; hacia Israel al ordenar su arresto</p>
+                                <p><span class="dateline">MADRID, 21 Nov. 2024 <span class="credit">(Europa Press)</span> - </span></p>
+                                <p>El primer ministro israelí, Benjamin Netanyahu, ha asegurado que las órdenes de detención contra él y el que fuera ministro de Defensa Yoav Gallant emitidas este jueves por el Tribunal Penal Internacional (TPI) están motivadas por el "odio antisemita".</p>
+                                <p>Netanyahu ha dicho que esta "decisión antisemita" es comparable a la conspiración que sufrió a finales del siglo XIX el capitán del Ejército francés Alfred Dreyfus, de religión judía. "La medida equivale a un moderno juicio Dreyfus", ha dicho en un comunicado difundido por su oficina.</p>
+                                <p>Asimismo, ha acusado al fiscal jefe del TPI, Karim Khan, de haber solicitado estas órdenes de detención para "salvar su pellejo de los graves cargos contra él por acoso sexual" y de haber mentido cuando aseguró que no tomaría decisión alguna hasta viajar a Israel y escuchar a sus autoridades.</p>
+                                <p>"Por eso canceló repentinamente su llegada el pasado mes de mayo, pocos días después de que surgieran sospechas contra él por acoso sexual", ha repetido, en relación a unas acusaciones que ya investiga el TPI y que Khan ha negado.</p>
+                                <p>"Ninguna decisión antiisraelí impedirá al Estado de Israel defender a sus ciudadanos", señala Netanyahu, quien ha remarcado que no cederá ante las presiones y seguirá persiguiendo todos los objetivos que Israel se ha propuesto cuando empezó "su guerra justa contra Hamás y el eje terrorista iraní".</p>
+                                <p>El resto del Gobierno ha coincidido en señalar que, con esta medida, el TPI ha vuelto a incidir en su "antisemitismo", perdiendo toda legitimidad al ponerse "al servicio de los terroristas" y obviando el derecho a defenderse de Israel.</p>
+                                <p>"Es un día oscuro para el Tribunal Penal Internacional de La Haya", ha valorado el ministro de Asuntos Exteriores, Gideon Saar, quien ha calificado de "absurdas" estas órdenes de detención a pesar de que Israel no forma parte del TPI.</p>
+                                <p>"Estas órdenes de arresto no son meros ataques personales contra ellos; en esencia, son un ataque al derecho de Israel a defenderse. Se trata de un ataque contra la nación más amenazada y más atacada del mundo", ha protestado.</p>
+                                <p>"Desde una perspectiva política, emitir órdenes de arresto contra un Estado que actúa de conformidad con el Derecho Internacional es una recompensa y un estímulo para el eje del mal", ha incidido el jefe de Exteriores, quien ha pedido a las "naciones decentes" que rechacen está "injusticia".</p>
+                                <p>Para el actual ministro de Defensa, Israel Katz, las órdenes de detención son una "vergüenza moral teñida por completo de antisemitismo" y "arrastra al sistema judicial internacional a un nivel sin precedentes".</p>
+                                <p>Katz ha llamado "corrupto" al fiscal jefe del TPI, Karim Khan, y ha advertido de que no permitirán que un "organismo hostil, hipócrita e ilegítimo" se impongan sobre las autoridades y militares israelíes.</p>
+                                <p>"Quien piense que puede disuadirnos de lograr todos nuestros objetivos de guerra mediante decisiones absurdas que favorezcan a Irán y sus representantes se enfrentará a un Estado fuerte y decidido que actuará con poder en todos los ámbitos --militar, político y legal-- para contrarrestar todas las amenazas", ha destacado.</p>
+                                <p>Por su parte, el ministro de Seguridad Nacional, Itamar Ben Gvir, ha defendido que la respuesta a estas órdenes de detención debe ser "la aplicación de la soberanía sobre Judea y Samaria --Cisjordania--, la colonización de todo el país y la ruptura de los vínculos con las autoridades terroristas".</p>
+                                <p>"El Tribunal Penal Internacional de La Haya demuestra una vez más que es antisemita hasta la médula. Esto es una completa locura", ha dicho Ben Gvir, al mismo tiempo que ha asegurado no haberse sentido sorprendido por esta decisión.</p>
+                                <p>Para otro miembro ultraderechista del gabinete, el ministro de Finanzas, Belazel Smotrich, la acción del TPI debe servir para que Israel tome medidas definitivas contra la Autoridad Palestina (AP), a quien responsabiliza de haber liderado la apertura de este procedimiento contra Netanyahu y Gallant.</p>
+                                <p>"La Autoridad Palestina trabaja constantemente para socavar la existencia del Estado de Israel y nos perjudica en el ámbito internacional, no es un socio para la paz: es una carga a la que hay que poner fin", ha dicho, pidiendo a Netanyahu que imponga las sanciones que el propuso para lograr el "colapso" de la AP.</p>
+                                <p>CRÍTICAS DEL PRESIDENTE</p>
+                                <p>El presidente israelí, Isaac Herzog, ha calificado de "escandalosa" la acción del TPI, a quien reprocha no haber tenido en cuenta no solo al centenar de rehenes que continúan bajo cautiverio, sino también el uso que Hamás hace de su propia gente, a quienes emplea como "escudos humanos".</p>
+                                <p>"Ignora el hecho básico de que Israel fue atacado brutalmente y tiene el deber y el derecho de defender a su pueblo. Ignora que Israel es una democracia vibrante, que actúa conforme al Derecho Humanitario", ha asegurado.</p>
+                                <p>El TPI, ha apuntado, "ha elegido el lado del terror y del mal sobre la democracia y la libertad y ha convertido el propio sistema de justicia en un escudo humano para los crímenes de Hamás contra la humanidad", ha enfatizado en X.</p>
+                        </section>
+                        </body>
+                        </html>
+                    </inlineXML>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:dpa.com:20090101:audio:20250128-99-00001583" standard="NewsML-G2" standardversion="2.32"
+                  version="1" xml:lang="de">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <usageTerms>Nutzung nur nach schriftlicher Vereinbarung mit dpa</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:audio"/>
+                <provider qcode="dnlprov:dpa">
+                    <name>dpa</name>
+                </provider>
+                <versionCreated>2025-01-28T06:04:53+01:00</versionCreated>
+                    <pubStatus qcode="stat:usable">
+                        <name>usable</name>
+                    </pubStatus>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:anstueck">
+                            <name>anstueck</name>
+                    </service>
+            </itemMeta>
+            <contentMeta>
+                <urgency>4</urgency>
+
+                        <infoSource role="dpaisrol:supplier" qcode="dpasupplier:dpa">
+                            <name>dpa</name>
+                        </infoSource>
+
+                    <creator >
+                            <name>Thomas Bleskin</name>
+                    </creator>
+
+                    <contributor >
+                            <name>tb</name>
+                    </contributor>
+
+
+                    <subject qcode="dpacat:wi" type="dpatype:category">
+                            <name>wi</name>
+                    </subject>
+                    <subject qcode="dpacountry:184" type="cpnat:geoArea" rank="1">
+                            <name>USA</name>
+                    </subject>
+                    <subject qcode="dpasubject:300" type="dpatype:dpasubject" rank="1">
+                            <name>Technik</name>
+                    </subject>
+
+                
+                <keyword rank="1">Ausland</keyword>
+                
+                <language tag="de"/>
+
+                <headline rank="1">1583/KI-Schock aus China: Kursbeben in den USA / 7.30 N</headline>
+                
+                
+                
+                
+                                                <description role="drol:caption">KI-SCHOCK AUS CHINA: KURSBEBEN IN DEN USA
+Eine neue KI-Anwendung aus China mit dem Namen DeepSeek hat an der Wall Street ein Kursbeben verursacht. Der Chip-Konzern Nvidia verlor an einem Tag mehr als eine halbe Billion Dollar an Börsenwert.
+Sören Gieß berichtet aus den USA.
+- 7.30 N</description>
+            </contentMeta>
+            <contentSet>
+                        <remoteContent contenttype="audio/mp3" href="https://d1vdx0puhh6tge.cloudfront.net/v4/mcat/crlg/docid/urn:newsml:dpa.com:20090101:audio:20250128-99-00001583/elswerp6ms-v1-ax.mp3?signature=ixP58UhqJf83fNjDEoO5xbtgrNk&amp;expires=1738368000" bitrate="256"                                       samplerate="48000"/>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

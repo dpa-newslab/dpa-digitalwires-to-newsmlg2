@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:dpa.com:20090101:240925-930-242782" standard="NewsML-G2" standardversion="2.32"
+                  version="1" xml:lang="de">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <copyrightNotice>Copyright 2024, dpa (www.dpa.de). Alle Rechte vorbehalten</copyrightNotice>
+                    <usageTerms>Nutzung nur nach schriftlicher Vereinbarung mit dpa
+Use only with the written agreement with dpa</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:text"/>
+                <provider qcode="dnlprov:dpa">
+                    <name>dpa</name>
+                </provider>
+                <versionCreated>2024-09-25T11:00:37+02:00</versionCreated>
+                    <pubStatus qcode="stat:usable">
+                        <name>usable</name>
+                    </pubStatus>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:bdt">
+                            <name>bdt</name>
+                    </service>
+                    <service qcode="dpasrv:bid">
+                            <name>bid</name>
+                    </service>
+                    <service qcode="dpasrv:edi">
+                            <name>edi</name>
+                    </service>
+                    <service qcode="dpasrv:edt">
+                            <name>edt</name>
+                    </service>
+                    <service qcode="dpasrv:erd">
+                            <name>erd</name>
+                    </service>
+                    <edNote role="dpaednoterole:genrenote" >Planungshinweis</edNote>
+                    <edNote role="dpaednoterole:closingline" >dpa yyzz s5 vee</edNote>
+                    <edNote role="dpaednoterole:dpacontacts" pubconstraint="dpapconstraint:nonpublic">Autor/in: Politik Ausland</edNote>
+                    <edNote role="dpaednoterole:dpacontacts" pubconstraint="dpapconstraint:nonpublic">Redaktion: Politik-Inland</edNote>
+                    <edNote role="dpaednoterole:notepad">
+                        <section xmlns="http://www.w3.org/1999/xhtml" class="notepad">
+<header><h3>Notizblock</h3></header><section class="np-nonpublic"><p>Die folgenden Informationen sind nicht zur Veröffentlichung bestimmt</p><h4>Kontakte</h4><ul><li>Autor/in: Politik Ausland</li><li>Redaktion: Politik-Inland</li></ul></section><p class="closingline">dpa yyzz s5 vee</p>                        </section>
+                    </edNote>
+            </itemMeta>
+            <contentMeta>
+                <urgency>4</urgency>
+
+
+                    <creator >
+                            <name>eschbacher.veronika</name>
+                    </creator>
+
+                    <contributor qcode="dpa-ad:eschbacher.veronika">
+                            <name>eschbacher.veronika</name>
+                    </contributor>
+
+                    <genre qcode="dpatextgenre:27">
+                        <name>Achtung</name>
+                    </genre>
+
+                    <subject qcode="dpacat:pl" type="dpatype:category">
+                            <name>pl</name>
+                    </subject>
+                    <subject qcode="dpacountry:196" type="cpnat:geoArea" rank="1">
+                            <name>International</name>
+                    </subject>
+                    <subject qcode="dpacountry:1" type="cpnat:geoArea" rank="2">
+                            <name>Deutschland</name>
+                    </subject>
+                    <subject qcode="dpasubject:432" type="dpatype:dpasubject" rank="1">
+                            <name>Vorschau</name>
+                    </subject>
+
+                
+                
+                <language tag="de"/>
+
+                <headline rank="1">Folgende Lesestücke des Ressorts Politik sind weiter aktuell</headline>
+                
+                
+                
+                <creditline>dpa</creditline>
+                                                
+            </contentMeta>
+            <contentSet>
+                    <inlineXML contenttype="application/xhtml+xml">
+                        <html xmlns="http://www.w3.org/1999/xhtml">
+                        <head>
+                            <meta charset="utf-8"/>
+                            <title>Folgende Lesestücke des Ressorts Politik sind weiter aktuell</title>
+                        </head>
+                        <body>
+                        <header>
+                            <time class="publicationDate"
+                                  data-datetime="2024-09-25T11:00:37+02:00">25.09.2024 11:00</time>
+                                <ul class="slugline">
+                                        <li class="subject"
+                                            data-qcode="dpasubject:432">Vorschau</li>
+                                        <li class="geo"
+                                            data-qcode="dpacountry:196">International</li>
+                                        <li class="geo"
+                                            data-qcode="dpacountry:1">Deutschland</li>
+                                </ul>
+                                <h1>Folgende Lesestücke des Ressorts Politik sind weiter aktuell</h1>
+                        </header>
+                        <section class="main dpatextgenre_27">
+                                <p />
+                                <p>Fragen-und-Antworten «Was Israel im Libanon erreichen will - und was droht» vom 24.9. https://dpaq.de/XswLGji </p>
+                                <p>KORR-Bericht «Generalprobe im Landtag - Steht die Allianz gegen die AfD?» vom 24.9. https://dpaq.de/tq5rNjj</p>
+                                <p>KORR-Bericht «Aufstieg im Osten: AfD und BSW saugen den Protest auf» vom 23.9. https://dpaq.de/PIBlhqx</p>
+                                <p>KORR-Bericht «Diese sieben "Swing States" entscheiden die US-Wahl» vom 23.9. https://dpaq.de/QoQ4FqD</p>
+                                <p>KORR-Bericht «Wahl in Österreich: Schmilzt der Vorsprung der rechten FPÖ?» vom 23.9. https://dpaq.de/nwCeiWS</p>
+                                <p>KORR-Bericht «Es kam wie aus heiterem Himmel - Ein Jahr nach dem 7. Oktober» zum 7.10. https://dpaq.de/ZHHnE7q</p>
+                                <p>KORR-Bericht «Führen aus der zweiten Reihe hat bei der AfD Tradition» vom 19.9. https://dpaq.de/tDxT8CF</p>
+                                <p>KORR-Bericht «Es ruckelt - Steinmeier erhält in zweiter Amtszeit Gegenwind» vom 16.9. https://dpaq.de/0YRQMY0</p>
+                                <p />
+                        </section>
+                        </body>
+                        </html>
+                    </inlineXML>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

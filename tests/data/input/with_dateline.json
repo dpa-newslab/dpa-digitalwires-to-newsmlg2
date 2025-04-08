@@ -1,0 +1,188 @@
+{
+  "format": "digitalwires@0.9.1",
+  "type": "composite",
+  "entry_id": "fuThYNitLE3kNyV8TJVTc3EBZrnkJ0mncvbcMnhnqGU",
+  "updated": "2025-01-28T08:52:13Z",
+  "urn": "urn:newsml:dpa.com:20090101:250128-930-357319",
+  "version_created": "2025-01-28T09:18:34+01:00",
+  "version": 2,
+  "pubstatus": "usable",
+  "signal": "sig:update",
+  "embargoed": null,
+  "content_created": null,
+  "language": "de",
+  "urgency": 3,
+  "kicker": "K\u00fcnstliche Intelligenz",
+  "headline": "DeepSeek-Schock aus China: Zeichen f\u00fcr KI-Zeitenwende?",
+  "subhead": null,
+  "teaser": "Dass ein Start-up aus China sein KI-Modell g\u00fcnstig trainierte, l\u00f6ste einen Kursrutsch in den USA aus. F\u00fcr Experten ist es aber ein Zeichen, dass man K\u00fcnstliche Intelligenz schneller entwickeln kann.",
+  "byline": "Von Andrej Sokolow, dpa",
+  "dateline": "New York (dpa) - ",
+  "article_html": "<section class=\"main\"><p><span class=\"dateline\">New York <span class=\"credit\">(dpa)</span> - </span>Ein Chatbot aus China schockt die Wall Street: Panische Anleger haben den B\u00f6rsenwert des Chip-Konzerns Nvidia an einem Tag um fast 600 Milliarden Dollar einbrechen lassen.\u00a0</p><p>Ausl\u00f6ser war die Erkenntnis, dass Software mit K\u00fcnstlicher Intelligenz m\u00f6glicherweise mit viel weniger Rechenleistung - und damit auch Chips von Nvidia - trainiert werden kann als man bisher dachte. Denn das chinesische Start-up DeepSeek will sein neues KI-Modell mit Kosten von weniger als sechs Millionen Dollar und auf wenigen abgespeckten Nvidia-Chipsystemen angelernt haben.</p><h2>Kalte F\u00fc\u00dfe an der Wall Street</h2><p>Ob das alles exakt so stimmt, wei\u00df man nicht. So wurde in der Branche schon vor Wochen spekuliert, DeepSeek habe m\u00f6glicherweise Zugriff auf mehr Nvidia-Chips als es angesichts der US-Ausfuhrbeschr\u00e4nkungen zugibt. Doch Investoren, die Nvidias Aktie in Erwartung eines zuk\u00fcnftigen Mega-Gesch\u00e4fts in den vergangenen Monaten immer h\u00f6her trieben, bekamen am Montag kalte F\u00fc\u00dfe. US-Pr\u00e4sident Donald Trump sprach von einem Weckruf f\u00fcr amerikanische Unternehmen - und fand es zugleich \u00abpositiv\u00bb, dass KI g\u00fcnstiger zu haben sein k\u00f6nne.\u00a0</p><p>Die Nvidia-Aktie fiel um knapp 17 Prozent und das radierte 589 Milliarden Dollar B\u00f6rsenwert aus. Noch nie hatte ein US-Unternehmen an einem Tag so viel Wert verloren - allerdings war auch keins davor so teuer wie Nvidia mit fast 3,5 Billionen Dollar.</p><h2>Was k\u00f6nnen die USA mit besseren Chips schaffen?</h2><p>Aber was bedeutet das alles nun f\u00fcr die Zukunft? Amerikanische Firmen \u00fcbertrafen sich zuletzt mit Ank\u00fcndigungen, wie viel Geld sie in KI-Infrastruktur stecken wollen. Allein der ChatGPT-Erfinder OpenAI und mehrere Partner versprachen, in den kommenden Jahren 500 Milliarden Dollar in Rechenzentren zu investieren. Beim Facebook-Konzern Meta stellte Gr\u00fcnder Mark Zuckerberg 60 Milliarden Dollar nur in diesem Jahr in Aussicht. Zeigt DeepSeek nun aber, dass man mit deutlich weniger Rechenpower auskommen wird?</p><p>US-Experten wollen es lieber andersherum sehen. Die Frage sei nicht, ob DeepSeek heutige Marktf\u00fchrer in den USA \u00fcberholen k\u00f6nne, betonte etwa X. Eye\u00e9 von der KI-Beratungsfirma Malo Santo. Es gehe viel mehr darum, wie schnell man die Forschungsans\u00e4tze der Chinesen umsetzen k\u00f6nne. \u00abWenn DeepSeek das mit alter Hardware entwickeln kann, was k\u00f6nnen wir dann mit neuerer Hardware schaffen?\u00bb, fragte sie im US-Sender CNBC.</p><h2>Zweifel an Kosten von DeepSeek</h2><p>Die Tech-Industrie werde immer noch \u00abeine Menge Chips brauchen\u00bb, zeigte sich auch Branchenanalyst Stacy Rasgon \u00fcberzeugt. \u00abEs ist eindeutig eine Panik heute\u00bb, betonte er mit Blick auf die B\u00f6rsenreaktion. Zugleich zweifelte Rasgon die Angaben aus China an: \u00abSie haben das Modell nicht f\u00fcr f\u00fcnf Millionen Dollar trainiert, das ist nicht passiert.\u00bb</p><p>Schon vergangene Woche sagte der Chef der KI-Firma Scale AI, Alexander Wang, nach seinen Informationen habe DeepSeek Zugriff auf 50.000 H100-Chipsysteme von Nvidia, k\u00f6nne aber wegen US-Ausfuhrbeschr\u00e4nkungen nicht dar\u00fcber sprechen. Die US-Regierung erlaubt Nvidia, nach China nur Chips zu verkaufen, die weniger leistungsstark sind.</p><h2>Wer steckt hinter DeepSeek?</h2><p>Die Firma wurde 2023 vom Hedge-Fonds-Manager Liang Wenfeng gegr\u00fcndet - und soll sich ein Paket von Nvidia-Chips gesichert haben. DeepSeek setzt auf Open-Source-Modelle, bei denen der Quellcode \u00f6ffentlich einsehbar ist. Die Daten werden auf Servern in China gespeichert. Der chinesischen Regierung nicht genehme Informationen, etwa zum Massaker auf dem Platz des Himmlischen Friedens 1989, werden vom Chatbot unterschlagen. Dass DeepSeek auf Platz eins im US-App-Store f\u00fcr das iPhone aufstieg, hat deswegen angesichts des harten Vorgehens gegen Tiktok eine besondere Ironie.</p><h2>Nicht nur Nvidia betroffen</h2><p>Der DeepSeek-Schock zog auch andere Aktien in Mitleidenschaft. Das Papier der Chipfirma Broadcom verlor ebenfalls rund 17 Prozent. Noch h\u00e4rter traf es Energieunternehmen, bei denen Investoren seit Monaten auf gutes Gesch\u00e4ft mit der Versorgung von Rechenzentren spekulierten. Die Aktie von Constellation Energy fiel um gut ein F\u00fcnftel, der Kurs von Vistra brach sogar um 28 Prozent ein. Den Aktien von Apple und des Facebook-Konzerns Meta brachte die Aussicht auf g\u00fcnstigere KI hingegen ein Kursplus.</p></section>",
+  "infobox_html": null,
+  "linkbox_html": null,
+  "creditline": "dpa",
+  "copyrightnotice": "Copyright 2025, dpa (www.dpa.de). Alle Rechte vorbehalten",
+  "usageterms": "Nutzung nur nach schriftlicher Vereinbarung mit dpa\nUse only with the written agreement with dpa",
+  "autopublishnotice": null,
+  "notepad": {
+    "header_html": "<header><h3>Notizblock</h3></header>",
+    "public_html": "<section class=\"np-public\"><h4>Aktualisierung</h4><ul><li>Sendeziel f\u00fcr Digitalprodukte erg\u00e4nzt.</li></ul><h4>Redaktionelle Hinweise</h4><ul><li>Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:</li><li>DeepSeek - Chinesisches KI-Start-up schockiert die B\u00f6rse</li><li>Nvidia</li></ul></section>",
+    "nonpublic_html": "<section class=\"np-nonpublic\"><p>Die folgenden Informationen sind nicht zur Ver\u00f6ffentlichung bestimmt</p><h4>Kontakte</h4><ul><li>Autor/in: Andrej Sokolow (San Jose) +49 151 42639746, sokolow.andrej@dpa.com</li><li>Redaktion: Valeria Nickel (Berlin) +49 30 285231687, wirtschaft@dpa.com, Foto: Newsdesk, +49 30 2852 31515, &lt;foto@dpa.com&gt;</li></ul></section>"
+  },
+  "ednotes": [
+    {
+      "role": "dpaednoterole:closingline",
+      "ednote": "dpa so yyon z2 a3 vni/dmo",
+      "is_publishable": true
+    },
+    {
+      "role": "dpaednoterole:editorialnote",
+      "ednote": "Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:",
+      "is_publishable": true
+    },
+    {
+      "role": "dpaednoterole:editorialnote",
+      "ednote": "DeepSeek - Chinesisches KI-Start-up schockiert die B\u00f6rse",
+      "is_publishable": true
+    },
+    {
+      "role": "dpaednoterole:editorialnote",
+      "ednote": "Nvidia",
+      "is_publishable": true
+    },
+    {
+      "role": "dpaednoterole:dpacontacts",
+      "ednote": "Autor/in: Andrej Sokolow (San Jose) +49 151 42639746, sokolow.andrej@dpa.com",
+      "is_publishable": false
+    },
+    {
+      "role": "dpaednoterole:dpacontacts",
+      "ednote": "Redaktion: Valeria Nickel (Berlin) +49 30 285231687, wirtschaft@dpa.com, Foto: Newsdesk, +49 30 2852 31515, <foto@dpa.com>",
+      "is_publishable": false
+    },
+    {
+      "role": "dpaednoterole:picture",
+      "ednote": "Foto Archiv",
+      "is_publishable": true
+    },
+    {
+      "role": "dpaednoterole:correction",
+      "ednote": "Sendeziel f\u00fcr Digitalprodukte erg\u00e4nzt.",
+      "is_publishable": true
+    },
+    {
+      "role": "dpaednoterole:correctionshort",
+      "ednote": "Sendeziel f\u00fcr Digitalprodukte erg\u00e4nzt.",
+      "is_publishable": true
+    }
+  ],
+  "descriptions": null,
+  "associations": [],
+  "categories": [
+    {
+      "type": "dnltype:signal",
+      "name": "update",
+      "qcode": "sig:update"
+    },
+    {
+      "type": "dnltype:pubstatus",
+      "name": "usable",
+      "qcode": "stat:usable"
+    },
+    {
+      "type": "dnltype:wire",
+      "name": "bdt",
+      "qcode": "dpasrv:bdt"
+    },
+    {
+      "type": "dnltype:wire",
+      "name": "edi",
+      "qcode": "dpasrv:edi"
+    },
+    {
+      "type": "dnltype:wire",
+      "name": "edt",
+      "qcode": "dpasrv:edt"
+    },
+    {
+      "type": "dnltype:wire",
+      "name": "erd",
+      "qcode": "dpasrv:erd"
+    },
+    {
+      "type": "dnltype:creator",
+      "name": "nickel.valeria",
+      "qcode": null,
+      "role": null
+    },
+    {
+      "type": "dnltype:contributor",
+      "name": "nickel.valeria",
+      "qcode": "dpa-ad:nickel.valeria",
+      "role": null
+    },
+    {
+      "type": "dnltype:contributor",
+      "name": "mollitor.daniel",
+      "qcode": "dpa-ad:mollitor.daniel",
+      "role": null
+    },
+    {
+      "type": "dnltype:dpasubject",
+      "name": "Internet",
+      "qcode": "dpasubject:377",
+      "rank": 1
+    },
+    {
+      "type": "dnltype:dpasubject",
+      "name": "B\u00f6rse",
+      "qcode": "medtop:20000394",
+      "rank": 2
+    },
+    {
+      "type": "dnltype:geosubject",
+      "name": "USA",
+      "qcode": "dpacountry:184",
+      "rank": 1
+    },
+    {
+      "type": "dnltype:desk",
+      "name": "wi",
+      "qcode": "dpacat:wi"
+    },
+    {
+      "type": "dnltype:genre",
+      "name": "Zusammenfassung",
+      "qcode": "dpatextgenre:26"
+    },
+    {
+      "type": "dnltype:urgency",
+      "name": "3",
+      "qcode": "urgency:3"
+    },
+    {
+      "type": "dnltype:provider",
+      "name": "dpa",
+      "qcode": "dnlprov:dpa"
+    }
+  ],
+  "current_rubric_names": [],
+  "rubric_names": [],
+  "dpasubject_names": [
+    "Internet",
+    "B\u00f6rse"
+  ],
+  "geosubject_names": [
+    "USA"
+  ],
+  "keyword_names": [],
+  "desk_names": [
+    "wi"
+  ],
+  "genre_names": [
+    "Zusammenfassung"
+  ],
+  "poi_names": [],
+  "scope_names": []
+}

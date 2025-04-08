@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:dpa.com:20090101:250123-930-353124" standard="NewsML-G2" standardversion="2.32"
+                  version="1" xml:lang="de">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <copyrightNotice>Copyright 2025, dpa (www.dpa.de). Alle Rechte vorbehalten</copyrightNotice>
+                    <usageTerms>Nutzung nur nach schriftlicher Vereinbarung mit dpa
+Use only with the written agreement with dpa</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:text"/>
+                <provider qcode="dnlprov:dpa">
+                    <name>dpa</name>
+                </provider>
+                <versionCreated>2025-01-23T14:10:47+01:00</versionCreated>
+                    <embargoed>2025-01-23T19:00:00+01:00</embargoed>
+                    <pubStatus qcode="stat:usable">
+                        <name>usable</name>
+                    </pubStatus>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:bdt">
+                            <name>bdt</name>
+                    </service>
+                    <service qcode="dpasrv:bid">
+                            <name>bid</name>
+                    </service>
+                    <service qcode="dpasrv:brb">
+                            <name>brb</name>
+                    </service>
+                    <service qcode="dpasrv:edi">
+                            <name>edi</name>
+                    </service>
+                    <service qcode="dpasrv:edt">
+                            <name>edt</name>
+                    </service>
+                    <service qcode="dpasrv:erd">
+                            <name>erd</name>
+                    </service>
+                    <edNote role="dpaednoterole:embargo" >Bitte beachten Sie die Sperrfrist der Meldung bis heute Abend (23.01.), 19.00 Uhr.</edNote>
+                    <edNote role="dpaednoterole:closingline" >dpa sza yybb n1 gth</edNote>
+                    <edNote role="dpaednoterole:editorialnote" >Die Berliner Gemäldegalerie nutzt laut eigenen Angaben die an das Ukrainische angelehnte Schreibweise der Stadt «Odessa» mit nur einem «s», also «Odesa».</edNote>
+                    <edNote role="dpaednoterole:editorialnote" >Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:</edNote>
+                    <edNote role="dpaednoterole:editorialnote" >Bundespräsident Steinmeier</edNote>
+                    <edNote role="dpaednoterole:dpacontacts" pubconstraint="dpapconstraint:nonpublic">Autor/in: Sabrina Szameitat (Berlin) +49 30 285 231 692, Szameitat.Sabrina@dpa.com</edNote>
+                    <edNote role="dpaednoterole:dpacontacts" pubconstraint="dpapconstraint:nonpublic">Redaktion: Foto: Newsdesk, +49 30 2852 31515, &lt;foto@dpa.com&gt;, Gregor Tholl (Berlin) +49 30 2852-32292, kultur@dpa.com</edNote>
+                    <edNote role="dpaednoterole:picture" >Foto Archiv und aktuell geplant</edNote>
+                    <edNote role="dpaednoterole:notepad">
+                        <section xmlns="http://www.w3.org/1999/xhtml" class="notepad">
+<header><h3>Notizblock</h3></header><section class="np-public"><h4>Redaktionelle Hinweise</h4><ul><li class="embargoed">Sperrfrist 23. Januar 19.00 Uhr - Bitte beachten Sie die Sperrfrist der Meldung bis heute Abend (23.01.), 19.00 Uhr.</li><li>Die Berliner Gemäldegalerie nutzt laut eigenen Angaben die an das Ukrainische angelehnte Schreibweise der Stadt «Odessa» mit nur einem «s», also «Odesa».</li><li>Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:</li><li>Bundespräsident Steinmeier</li></ul><h4>Internet</h4><ul><li><a href="https://dpaq.de/FFJbkHx">Informationen zur Ausstellung</a></li></ul><h4>Orte</h4><ul><li>[Kulturforum](Matthäikirchplatz, 10785 Berlin, Deutschland)</li></ul></section><section class="np-nonpublic"><p>Die folgenden Informationen sind nicht zur Veröffentlichung bestimmt</p><h4>Kontakte</h4><ul><li>Autor/in: Sabrina Szameitat (Berlin) +49 30 285 231 692, Szameitat.Sabrina@dpa.com</li><li>Redaktion: Foto: Newsdesk, +49 30 2852 31515, &lt;foto@dpa.com&gt;, Gregor Tholl (Berlin) +49 30 2852-32292, kultur@dpa.com</li></ul></section><p class="closingline">dpa sza yybb n1 gth</p>                        </section>
+                    </edNote>
+                    <link rel="irel:seeAlso" rank="1" href="https://dpaq.de/FFJbkHx">
+                        <title>Informationen zur Ausstellung</title>
+                    </link>
+            </itemMeta>
+            <contentMeta>
+                <urgency>4</urgency>
+
+
+                    <creator >
+                            <name>tholl.gregor</name>
+                    </creator>
+
+                    <contributor qcode="dpa-ad:tholl.gregor">
+                            <name>tholl.gregor</name>
+                    </contributor>
+
+                    <genre qcode="dpatextgenre:1">
+                        <name>Meldung</name>
+                    </genre>
+
+                    <subject qcode="dpacat:ku" type="dpatype:category">
+                            <name>ku</name>
+                    </subject>
+                    <subject qcode="dpaarea:3" type="cpnat:geoArea" rank="1">
+                            <name>Berlin</name>
+                    </subject>
+                    <subject qcode="dpacountry:181" type="cpnat:geoArea" rank="2">
+                            <name>Ukraine</name>
+                    </subject>
+                    <subject qcode="dpacountry:1" type="cpnat:geoArea" rank="3">
+                            <name>Deutschland</name>
+                    </subject>
+                    <subject qcode="dpacountry:139" type="cpnat:geoArea" rank="4">
+                            <name>Russland</name>
+                    </subject>
+                    <subject qcode="dpasubject:185" type="dpatype:dpasubject" rank="1">
+                            <name>Ausstellungen</name>
+                    </subject>
+                    <subject qcode="medtop:20000062" type="dpatype:dpasubject" rank="2">
+                            <name>Krieg</name>
+                    </subject>
+                    <subject qcode="dpasubject:114" type="dpatype:dpasubject" rank="3">
+                            <name>Konflikte</name>
+                    </subject>
+                    <subject qcode="dpasubject:118" type="dpatype:dpasubject" rank="4">
+                            <name>Kunst</name>
+                    </subject>
+                        <subject literal="poiID0" rank="1" type="cpnat:poi">
+                                <name>Kulturforum</name>
+                        </subject>
+
+                
+                
+                <language tag="de"/>
+
+                <headline rank="1">Steinmeier: Russland zerstört kulturelles Erbe der Ukraine</headline>
+                <headline rank="3">Ausstellung</headline>
+                <dateline>Berlin (dpa) - </dateline>
+                
+                <creditline>dpa</creditline>
+                <description role="drol:teaser">Eine Ausstellung in Berlin zeigt vor dem Krieg gerettete Gemälde aus Odessa. Bundespräsident Steinmeier bezeichnet den russischen Angriffskrieg auch als einen Krieg gegen die Kultur der Ukraine.</description>                                
+            </contentMeta>
+                    <assert literal="poiID0">
+                        <POIDetails>
+                            <position latitude="52.50886" longitude="13.36597"/>
+                            <address>
+                                <line role="nrol:display">Kulturforum</line>
+                                <line role="nrol:full">Matthäikirchplatz, 10785 Berlin, Deutschland</line>
+                                <locality role="dpalocalityrole:locality">
+                                    <name>Berlin</name>
+                                </locality>
+                                <area role="dpaarearole:area">
+                                <name>Matthäikirchplatz, 10785 Berlin, Deutschland</name>
+                                </area>
+                                <country type="cpnat:geoArea">
+                                    <name>Deutschland</name>
+                                </country>
+                            </address>
+                        </POIDetails>
+                    </assert>
+            <contentSet>
+                    <inlineXML contenttype="application/xhtml+xml">
+                        <html xmlns="http://www.w3.org/1999/xhtml">
+                        <head>
+                            <meta charset="utf-8"/>
+                            <title>Steinmeier: Russland zerstört kulturelles Erbe der Ukraine</title>
+                        </head>
+                        <body>
+                        <header>
+                            <time class="publicationDate"
+                                  data-datetime="2025-01-23T14:10:47+01:00">23.01.2025 14:10</time>
+                                <ul class="slugline">
+                                        <li class="subject"
+                                            data-qcode="dpasubject:185">Ausstellungen</li>
+                                        <li class="subject"
+                                            data-qcode="medtop:20000062">Krieg</li>
+                                        <li class="subject"
+                                            data-qcode="dpasubject:114">Konflikte</li>
+                                        <li class="subject"
+                                            data-qcode="dpasubject:118">Kunst</li>
+                                        <li class="geo"
+                                            data-qcode="dpaarea:3">Berlin</li>
+                                        <li class="geo"
+                                            data-qcode="dpacountry:181">Ukraine</li>
+                                        <li class="geo"
+                                            data-qcode="dpacountry:1">Deutschland</li>
+                                        <li class="geo"
+                                            data-qcode="dpacountry:139">Russland</li>
+                                </ul>
+                                <strong class="embargoed" data-datetime="2025-01-23T19:00:00+01:00">Bitte beachten Sie die Sperrfrist der Meldung bis heute Abend (23.01.), 19.00 Uhr.</strong>
+                                <h1>Steinmeier: Russland zerstört kulturelles Erbe der Ukraine</h1>
+                                <h3>Ausstellung</h3>
+                        </header>
+                        <section class="main dpatextgenre_1">
+                                <p class="teaser">Eine Ausstellung in Berlin zeigt vor dem Krieg gerettete Gemälde aus Odessa. Bundespräsident Steinmeier bezeichnet den russischen Angriffskrieg auch als einen Krieg gegen die Kultur der Ukraine.</p>
+                                <p><span class="dateline">Berlin <span class="credit">(dpa)</span> - </span>Bundespräsident Frank-Walter Steinmeier hat vor der Zerstörung des kulturellen Erbes der Ukraine im russischen Angriffskrieg gewarnt. «Russlands blutiger Angriffskrieg ist auch ein Krieg gegen die Kultur der Ukraine», sagte Steinmeier laut Redemanuskript bei der Eröffnung einer Ausstellung mit Kunst aus der Ukraine in der Berliner Gemäldegalerie. Die Schau mache dies einem bewusst.</p>
+                                <p>«In zahllosen ukrainischen Städten wurden und werden in diesem Krieg Baudenkmäler beschädigt, Kultureinrichtungen zerstört, Kunstwerke geraubt», sagte Steinmeier. Angriffe auf Museen, Theater, Opern und Bibliotheken zielten darauf ab, das «kulturelle Gedächtnis» der Ukraine auszulöschen. </p>
+                                <p>Die Sonderausstellung zeige aber auch, mit welcher Kraft die Menschen in der Ukraine in Kriegszeiten ihre kulturelle Heimat verteidigten. Sie sei zudem ein «schöner Moment der deutsch-ukrainischen Freundschaft». Steinmeier sicherte der Ukraine weiter Unterstützung vonseiten Deutschlands zu. </p>
+                                <h2>Gemälde aus Odessa mit Werken aus Berliner Sammlungen im Dialog</h2>
+                                <p>Knapp drei Jahre nach dem Start des russischen Angriffskriegs sind in der Berliner Gemäldegalerie gerettete Werke aus dem Odessa Museum für Westliche und Östliche Kunst zu sehen. </p>
+                                <p>Unter dem Titel «Von Odesa nach Berlin. Europäische Malerei des 16. bis 19. Jahrhunderts» treten 60 Gemälde aus der südukrainischen Hafenstadt mit Werken aus Berliner Sammlungen in einen Dialog. </p>
+                                <p>Steinmeier ist Schirmherr für das deutsch-ukrainische Kooperationsprojekt. Die Werke aus Odessa waren im September 2023 nach Berlin gekommen und wurden konservatorisch bearbeitet. Die Ausstellung wird vom Haus von Kulturstaatsministerin Claudia Roth gefördert und läuft bis zum 22. Juni.</p>
+                                <p>Danach soll sie im Kurpfälzischen Museum in Heidelberg zu sehen sein (19. Oktober 2025 bis 22. März 2026).</p>
+                        </section>
+                        </body>
+                        </html>
+                    </inlineXML>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

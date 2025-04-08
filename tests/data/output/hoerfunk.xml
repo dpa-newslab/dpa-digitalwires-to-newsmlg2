@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:dpa.com:20090101:241120-99-92781" standard="NewsML-G2" standardversion="2.32"
+                  version="6" xml:lang="de">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <copyrightNotice>Copyright 2024, dpa (www.dpa.de). Alle Rechte vorbehalten</copyrightNotice>
+                    <usageTerms>Nutzung nur nach schriftlicher Vereinbarung mit dpa
+Use only with the written agreement with dpa</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:text"/>
+                <provider qcode="dnlprov:dpa">
+                    <name>dpa</name>
+                </provider>
+                <versionCreated>2024-11-20T15:00:05+01:00</versionCreated>
+                    <pubStatus qcode="stat:usable">
+                        <name>usable</name>
+                    </pubStatus>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:bdt">
+                            <name>bdt</name>
+                    </service>
+                    <service qcode="dpasrv:bid">
+                            <name>bid</name>
+                    </service>
+                    <service qcode="dpasrv:hfk">
+                            <name>hfk</name>
+                    </service>
+                    <service qcode="dpasrv:kom">
+                            <name>kom</name>
+                    </service>
+                    <edNote role="dpaednoterole:closingline" >dpa s5 tbr</edNote>
+            </itemMeta>
+            <contentMeta>
+                <urgency>3</urgency>
+
+
+                    <creator >
+                            <name>brockt</name>
+                    </creator>
+
+                    <contributor qcode="dpa-ad:brockt">
+                            <name>brockt</name>
+                    </contributor>
+
+                    <genre qcode="dpatextgenre:32">
+                        <name>Vorschau</name>
+                    </genre>
+
+                    <subject qcode="dpacat:rs" type="dpatype:category">
+                            <name>rs</name>
+                    </subject>
+                    <subject qcode="dpacountry:1" type="cpnat:geoArea" rank="1">
+                            <name>Deutschland</name>
+                    </subject>
+                    <subject qcode="dpasubject:432" type="dpatype:dpasubject" rank="1">
+                            <name>Vorschau</name>
+                    </subject>
+
+                
+                <keyword rank="1">dpa</keyword>
+                <keyword rank="2">Audio</keyword>
+                
+                <language tag="de"/>
+
+                <headline rank="1">dpa/audio-Programm für Mittwoch, 20. November 2024, 15 Uhr</headline>
+                
+                
+                
+                <creditline>dpa</creditline>
+                                                
+            </contentMeta>
+            <contentSet>
+                    <inlineXML contenttype="application/xhtml+xml">
+                        <html xmlns="http://www.w3.org/1999/xhtml">
+                        <head>
+                            <meta charset="utf-8"/>
+                            <title>dpa/audio-Programm für Mittwoch, 20. November 2024, 15 Uhr</title>
+                        </head>
+                        <body>
+                        <header>
+                            <time class="publicationDate"
+                                  data-datetime="2024-11-20T15:00:05+01:00">20.11.2024 15:00</time>
+                                <ul class="slugline">
+                                        <li class="subject"
+                                            data-qcode="dpasubject:432">Vorschau</li>
+                                        <li class="geo"
+                                            data-qcode="dpacountry:1">Deutschland</li>
+                                        <li class="keyword"
+                                            >dpa</li>
+                                        <li class="keyword"
+                                            >Audio</li>
+                                </ul>
+                                <h1>dpa/audio-Programm für Mittwoch, 20. November 2024, 15 Uhr</h1>
+                        </header>
+                        <section class="main dpatextgenre_32">
+                                <p><strong>Ihr Ansprechpartner: Thomas Brockt, Tel. (030) 2852-31360<br />E-Mail: audio@dpa.com <br /><br /></strong>FORD WILL IN DEUTSCHLAND 2.900 STELLEN ABBAUEN<br />Der US-Autobauer Ford will bis Ende 2027 in Deutschland 2.900 Stellen abbauen und so die Kosten senken. Die meisten Arbeitsplätze sollen im Kölner Werk wegfallen, wie das Unternehmen weiter mitteilte. Knapp zwei Milliarden Euro hat Ford in diesen Standort investiert, um E-Autos zu produzieren - der Absatz ist jedoch mau geblieben.<br />Benedikt Meise berichtet.<br />- 15.30 N (versendet)<br /><br /><br />SCHOLZ ZURÜCK IN BERLIN: K-FRAGE GEHT WEITER<br />Nach drei Tagen beim G20-Gipfel in Rio de Janeiro ist Bundeskanzler Olaf Scholz zurück in Berlin. In den nächsten Tagen wird es für ihn und seine Partei um die viel diskutierte Frage gehen: Soll nun Scholz Kanzlerkandidat der SPD werden oder Verteidigungsminister Boris Pistorius? Der Parteivorstand hat sich noch nicht festgelegt.<br />Thomas Bleskin berichtet.<br />- 15.30 N (versendet)<br /><br /><br />MEDIEN: LIAM PAYNE SOLL HEUTE BEIGESETZT WERDEN<br />Sein Tod löste weltweit große Trauer bei Fans der Band One Direction aus. Heute soll Liam Payne in Buckinghamshire, nordwestlich von London, seine letzte Ruhestätte finden, berichten britische Medien. Philip Dethlefs berichtet aus London.<br />- 15.30 Mod-N<br /></p>
+                        </section>
+                        </body>
+                        </html>
+                    </inlineXML>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

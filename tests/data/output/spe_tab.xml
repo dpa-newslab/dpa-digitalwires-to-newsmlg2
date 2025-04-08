@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:dpa.com:20090101:dsv:text:ERG_MM_FB_1BL_M_2025_HR_1007" standard="NewsML-G2" standardversion="2.32"
+                  version="33" xml:lang="de">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <copyrightNotice>Copyright dsv - All rights reserved</copyrightNotice>
+                    <usageTerms>None</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:text"/>
+                <provider qcode="dnlprov:dpa">
+                    <name>dpa</name>
+                </provider>
+                <versionCreated>2024-10-06T21:30:20+02:00</versionCreated>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:spe">
+                            <name>spe</name>
+                    </service>
+                    <edNote role="dpaednoterole:notepad">
+                        <section xmlns="http://www.w3.org/1999/xhtml" class="notepad">
+<header><h3>Notizblock</h3></header><section class="np-public"><ul></ul></section>                        </section>
+                    </edNote>
+            </itemMeta>
+            <contentMeta>
+                <urgency>3</urgency>
+
+
+
+
+                    <genre qcode="dpatextgenre:1">
+                        <name>Meldung</name>
+                    </genre>
+
+                    <subject qcode="dpacat:sp" type="dpatype:category">
+                            <name>sp</name>
+                    </subject>
+
+                <audience qcode="dpaaudience:deu">
+                        <name>deutsch</name>                    </audience>
+                <audience qcode="dpaaudience:eng">
+                        <name>englisch</name>                    </audience>
+                <audience qcode="dpaaudience:esp">
+                        <name>spanisch</name>                    </audience>
+                <audience qcode="dpaaudience:bayern">
+                        <name>Bayern</name>                    </audience>
+                <audience qcode="dpaaudience:baden_wuerttemberg">
+                        <name>Baden-Württemberg</name>                    </audience>
+                <audience qcode="dpaaudience:hessen">
+                        <name>Hessen</name>                    </audience>
+                <audience qcode="dpaaudience:berlin">
+                        <name>Berlin</name>                    </audience>
+                <audience qcode="dpaaudience:bremen">
+                        <name>Bremen</name>                    </audience>
+                <audience qcode="dpaaudience:hamburg">
+                        <name>Hamburg</name>                    </audience>
+                <audience qcode="dpaaudience:niedersachsen">
+                        <name>Niedersachsen</name>                    </audience>
+                <audience qcode="dpaaudience:nordrhein_westfalen">
+                        <name>Nordrhein-Westfalen</name>                    </audience>
+                <audience qcode="dpaaudience:rheinland_pfalz">
+                        <name>Rheinland-Pfalz</name>                    </audience>
+                <audience qcode="dpaaudience:sachsen">
+                        <name>Sachsen</name>                    </audience>
+                <audience qcode="dpaaudience:schleswig_holstein">
+                        <name>Schleswig-Holstein</name>                    </audience>
+                
+                <keyword rank="1">Bundesliga</keyword>
+                <keyword rank="2">Männer</keyword>
+                <keyword rank="3">Ergebnisse</keyword>
+                
+                <language tag="de"/>
+
+                <headline rank="1">Ergebnisse und Tabelle Fußball-Bundesliga, Männer</headline>
+                
+                
+                
+                
+                                                
+            </contentMeta>
+            <contentSet>
+                    <inlineXML contenttype="application/xhtml+xml">
+                        <html xmlns="http://www.w3.org/1999/xhtml">
+                        <head>
+                            <meta charset="utf-8"/>
+                            <title>Ergebnisse und Tabelle Fußball-Bundesliga, Männer</title>
+                        </head>
+                        <body>
+                        <header>
+                            <time class="publicationDate"
+                                  data-datetime="2024-10-06T21:30:20+02:00">06.10.2024 21:30</time>
+                                <ul class="slugline">
+                                        <li class="keyword"
+                                            >Bundesliga</li>
+                                        <li class="keyword"
+                                            >Männer</li>
+                                        <li class="keyword"
+                                            >Ergebnisse</li>
+                                </ul>
+                                <h1>Ergebnisse und Tabelle Fußball-Bundesliga, Männer</h1>
+                        </header>
+                        <section class="main dpatextgenre_1">
+                                <div class="phase" />
+                                <div class="fixtures"><div class="phase" /><p>6. Spieltag:</p><table><tbody><tr><td colspan="4">Freitag, 04.10.2024:</td></tr><tr><td>FC Augsburg</td><td>-</td><td>Bor. Mönchengladbach</td><td>2:1 (1:0)</td></tr><tr><td colspan="4">Samstag, 05.10.2024:</td></tr><tr><td>Bayer Leverkusen</td><td>-</td><td>Holstein Kiel</td><td>2:2 (2:1)</td></tr><tr><td>Werder Bremen</td><td>-</td><td>SC Freiburg</td><td>0:1 (0:0)</td></tr><tr><td>1. FC Union Berlin</td><td>-</td><td>Borussia Dortmund</td><td>2:1 (2:0)</td></tr><tr><td>VfL Bochum</td><td>-</td><td>VfL Wolfsburg</td><td>1:3 (0:2)</td></tr><tr><td>FC St. Pauli</td><td>-</td><td>FSV Mainz 05</td><td>0:3 (0:2)</td></tr><tr><td colspan="4">Sonntag, 06.10.2024:</td></tr><tr><td>1. FC Heidenheim</td><td>-</td><td>RB Leipzig</td><td>0:1 (0:0)</td></tr><tr><td>Eintracht Frankfurt</td><td>-</td><td>Bayern München</td><td>3:3 (2:2)</td></tr><tr><td>VfB Stuttgart</td><td>-</td><td>TSG 1899 Hoffenheim</td><td>1:1 (0:1)</td></tr></tbody></table></div>
+                                <div class="standing"><table><tbody><tr><td align="right">1.</td><td align="left">Bayern München</td><td align="right">6</td><td align="right">4</td><td align="right">2</td><td align="right">0</td><td align="right">+13</td><td align="center">20:7</td><td align="right">14</td></tr><tr><td align="right">2.</td><td align="left">RB Leipzig</td><td align="right">6</td><td align="right">4</td><td align="right">2</td><td align="right">0</td><td align="right">+7</td><td align="center">9:2</td><td align="right">14</td></tr><tr><td align="right">3.</td><td align="left">Eintracht Frankfurt</td><td align="right">6</td><td align="right">4</td><td align="right">1</td><td align="right">1</td><td align="right">+5</td><td align="center">14:9</td><td align="right">13</td></tr><tr><td align="right">4.</td><td align="left">SC Freiburg</td><td align="right">6</td><td align="right">4</td><td align="right">0</td><td align="right">2</td><td align="right">+2</td><td align="center">9:7</td><td align="right">12</td></tr><tr><td align="right">5.</td><td align="left">Bayer Leverkusen</td><td align="right">6</td><td align="right">3</td><td align="right">2</td><td align="right">1</td><td align="right">+4</td><td align="center">16:12</td><td align="right">11</td></tr><tr><td align="right">6.</td><td align="left">1. FC Union Berlin</td><td align="right">6</td><td align="right">3</td><td align="right">2</td><td align="right">1</td><td align="right">+2</td><td align="center">6:4</td><td align="right">11</td></tr><tr><td align="right">7.</td><td align="left">Borussia Dortmund</td><td align="right">6</td><td align="right">3</td><td align="right">1</td><td align="right">2</td><td align="right">+1</td><td align="center">12:11</td><td align="right">10</td></tr><tr><td align="right">8.</td><td align="left">VfB Stuttgart</td><td align="right">6</td><td align="right">2</td><td align="right">3</td><td align="right">1</td><td align="right">+4</td><td align="center">15:11</td><td align="right">9</td></tr><tr><td align="right">9.</td><td align="left">1. FC Heidenheim</td><td align="right">6</td><td align="right">3</td><td align="right">0</td><td align="right">3</td><td align="right">+2</td><td align="center">10:8</td><td align="right">9</td></tr><tr><td align="right">10.</td><td align="left">FSV Mainz 05</td><td align="right">6</td><td align="right">2</td><td align="right">2</td><td align="right">2</td><td align="right">+1</td><td align="center">11:10</td><td align="right">8</td></tr><tr><td align="right">11.</td><td align="left">Werder Bremen</td><td align="right">6</td><td align="right">2</td><td align="right">2</td><td align="right">2</td><td align="right">-4</td><td align="center">8:12</td><td align="right">8</td></tr><tr><td align="right">12.</td><td align="left">VfL Wolfsburg</td><td align="right">6</td><td align="right">2</td><td align="right">1</td><td align="right">3</td><td align="right">+1</td><td align="center">13:12</td><td align="right">7</td></tr><tr><td align="right">13.</td><td align="left">FC Augsburg</td><td align="right">6</td><td align="right">2</td><td align="right">1</td><td align="right">3</td><td align="right">-6</td><td align="center">9:15</td><td align="right">7</td></tr><tr><td align="right">14.</td><td align="left">Bor. Mönchengladbach</td><td align="right">6</td><td align="right">2</td><td align="right">0</td><td align="right">4</td><td align="right">-3</td><td align="center">7:10</td><td align="right">6</td></tr><tr><td align="right">15.</td><td align="left">FC St. Pauli</td><td align="right">6</td><td align="right">1</td><td align="right">1</td><td align="right">4</td><td align="right">-5</td><td align="center">4:9</td><td align="right">4</td></tr><tr><td align="right">16.</td><td align="left">TSG 1899 Hoffenheim</td><td align="right">6</td><td align="right">1</td><td align="right">1</td><td align="right">4</td><td align="right">-6</td><td align="center">10:16</td><td align="right">4</td></tr><tr><td align="right">17.</td><td align="left">Holstein Kiel</td><td align="right">6</td><td align="right">0</td><td align="right">2</td><td align="right">4</td><td align="right">-10</td><td align="center">9:19</td><td align="right">2</td></tr><tr><td align="right">18.</td><td align="left">VfL Bochum</td><td align="right">6</td><td align="right">0</td><td align="right">1</td><td align="right">5</td><td align="right">-8</td><td align="center">6:14</td><td align="right">1</td></tr></tbody></table></div>
+                                <div class="nextGames"><div class="phase" /><p>Nächste Spiele:</p><table><tr><td colspan="4">Freitag, 18.10.2024:</td></tr><tr><td>Borussia Dortmund</td><td>-</td><td>FC St. Pauli</td><td>20.30</td></tr><tr><td colspan="4">Samstag, 19.10.2024:</td></tr><tr><td>Bayer Leverkusen</td><td>-</td><td>Eintracht Frankfurt</td><td>15.30</td></tr><tr><td>TSG 1899 Hoffenheim</td><td>-</td><td>VfL Bochum</td><td>15.30</td></tr><tr><td>SC Freiburg</td><td>-</td><td>FC Augsburg</td><td>15.30</td></tr><tr><td>FSV Mainz 05</td><td>-</td><td>RB Leipzig</td><td>15.30</td></tr><tr><td>Bor. Mönchengladbach</td><td>-</td><td>1. FC Heidenheim</td><td>15.30</td></tr><tr><td>Bayern München</td><td>-</td><td>VfB Stuttgart</td><td>18.30</td></tr><tr><td colspan="4">Sonntag, 20.10.2024:</td></tr><tr><td>Holstein Kiel</td><td>-</td><td>1. FC Union Berlin</td><td>15.30</td></tr><tr><td>VfL Wolfsburg</td><td>-</td><td>Werder Bremen</td><td>17.30</td></tr></table></div>
+                        </section>
+                        </body>
+                        </html>
+                    </inlineXML>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

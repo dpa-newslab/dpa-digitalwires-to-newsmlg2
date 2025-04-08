@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:dpa.com:20090101:250122-99-671785" standard="NewsML-G2" standardversion="2.32"
+                  version="10" xml:lang="de">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <copyrightNotice>Copyright 2025, dpa (www.dpa.de). Alle Rechte vorbehalten</copyrightNotice>
+                    <usageTerms>Nutzung nur nach schriftlicher Vereinbarung mit dpa
+Use only with the written agreement with dpa</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:text"/>
+                <provider qcode="dnlprov:dpa">
+                    <name>dpa</name>
+                </provider>
+                <versionCreated>2025-01-22T15:59:24+01:00</versionCreated>
+                    <pubStatus qcode="stat:usable">
+                        <name>usable</name>
+                    </pubStatus>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:factchecking">
+                            <name>factchecking</name>
+                    </service>
+                    <edNote role="dpaednoterole:closingline" >dpa lst ff</edNote>
+                    <edNote role="dpaednoterole:editorialnote" >Kontakt zum dpa-Faktencheckteam: faktencheck@dpa.com</edNote>
+                    <edNote role="dpaednoterole:notepad">
+                        <section xmlns="http://www.w3.org/1999/xhtml" class="notepad">
+<header><h3>Notizblock</h3></header><section class="np-public"><h4>Redaktionelle Hinweise</h4><ul><li>Kontakt zum dpa-Faktencheckteam: faktencheck@dpa.com</li></ul><h4>Internet</h4><ul><li><a href="https://www.dpa.com/faktencheck"></a></li><li><a href="https://www.dpa.com/index.php?id=1384&amp;ADMCMD_editIcons=1#kontakt"></a></li></ul><h4>Orte</h4><ul><li>[Ort der Satellitenaufnahme](Paradise, Kalifornien 95969, USA)</li></ul></section><p class="closingline">dpa lst ff</p>                        </section>
+                    </edNote>
+                    <link rel="irel:seeAlso" rank="1" residref="urn:newsml:dpa.com:20090101:250122-99-672161" href="https://d3hzhyitlnc455.cloudfront.net/v3/image/resize/urn:newsml:dpa.com:20090101:250122-99-672161-v3-s2048.jpeg?signature=31c3DvJvazC41pGhGAMhz_J89aE&amp;expires=1737763200" version="3">
+                        <itemClass qcode="ninat:picture"/>
+                        <title>Ein ausgebranntes Fahrzeug und Trümmer nach dem Waldbrand.</title>
+                    </link>
+                    <link rel="irel:seeAlso" rank="2" href="https://www.dpa.com/faktencheck">
+                        <title>https://www.dpa.com/faktencheck</title>
+                    </link>
+                    <link rel="irel:seeAlso" rank="3" href="https://www.dpa.com/index.php?id=1384&amp;ADMCMD_editIcons=1#kontakt">
+                        <title>https://www.dpa.com/index.php?id=1384&amp;ADMCMD_editIcons=1#kontakt</title>
+                    </link>
+            </itemMeta>
+            <contentMeta>
+                <urgency>3</urgency>
+
+
+                    <creator >
+                            <name>stahlberg.leo</name>
+                    </creator>
+
+                    <contributor qcode="dpa-ad:stahlberg.leo">
+                            <name>stahlberg.leo</name>
+                    </contributor>
+                    <contributor qcode="dpa-ad:siegloff">
+                            <name>siegloff</name>
+                    </contributor>
+
+                    <genre qcode="dpatextgenre:49">
+                        <name>Faktencheck</name>
+                    </genre>
+
+                    <subject qcode="dpacat:vm" type="dpatype:category">
+                            <name>vm</name>
+                    </subject>
+                    <subject qcode="dpacountry:1" type="cpnat:geoArea" rank="1">
+                            <name>Deutschland</name>
+                    </subject>
+                    <subject qcode="medtop:20000150" type="dpatype:dpasubject" rank="1">
+                            <name>Feuer</name>
+                    </subject>
+                    <subject qcode="medtop:06000000" type="dpatype:dpasubject" rank="2">
+                            <name>Umwelt</name>
+                    </subject>
+                    <subject qcode="medtop:20000602" type="dpatype:dpasubject" rank="3">
+                            <name>Waffen</name>
+                    </subject>
+                        <subject literal="poiID0" rank="1" type="cpnat:poi">
+                                <name>Ort der Satellitenaufnahme</name>
+                        </subject>
+
+                
+                
+                <language tag="de"/>
+
+                <headline rank="1">Bild von Brandschäden stammt aus dem Jahr 2018</headline>
+                <headline rank="3">Behauptungen ohne Grundlage</headline>
+                
+                
+                <creditline>dpa</creditline>
+                <description role="drol:teaser">Einige behaupten, Laserwaffen hätten die Brände in Los Angeles ausgelöst – mit einem Foto als vermeintlichem Beweis. Doch weder das Bild noch die Behauptung halten einer Prüfung stand.</description>                                
+            </contentMeta>
+                    <assert literal="poiID0">
+                        <POIDetails>
+                            <position latitude="39.7596061" longitude="-121.6219177"/>
+                            <address>
+                                <line role="nrol:display">Ort der Satellitenaufnahme</line>
+                                <line role="nrol:full">Paradise, Kalifornien 95969, USA</line>
+                                <locality role="dpalocalityrole:locality">
+                                    <name>Paradise</name>
+                                </locality>
+                                <area role="dpaarearole:area">
+                                <name>Paradise, Kalifornien 95969, USA</name>
+                                </area>
+                                <country type="cpnat:geoArea">
+                                    <name>USA</name>
+                                </country>
+                            </address>
+                        </POIDetails>
+                    </assert>
+            <contentSet>
+                    <inlineXML contenttype="application/xhtml+xml">
+                        <html xmlns="http://www.w3.org/1999/xhtml">
+                        <head>
+                            <meta charset="utf-8"/>
+                            <title>Bild von Brandschäden stammt aus dem Jahr 2018</title>
+                        </head>
+                        <body>
+                        <header>
+                            <time class="publicationDate"
+                                  data-datetime="2025-01-22T15:59:24+01:00">22.01.2025 15:59</time>
+                                <ul class="slugline">
+                                        <li class="subject"
+                                            data-qcode="medtop:20000150">Feuer</li>
+                                        <li class="subject"
+                                            data-qcode="medtop:06000000">Umwelt</li>
+                                        <li class="subject"
+                                            data-qcode="medtop:20000602">Waffen</li>
+                                        <li class="geo"
+                                            data-qcode="dpacountry:1">Deutschland</li>
+                                </ul>
+                                <h1>Bild von Brandschäden stammt aus dem Jahr 2018</h1>
+                                <h3>Behauptungen ohne Grundlage</h3>
+                        </header>
+                        <section class="main dpatextgenre_49">
+                                <p class="teaser">Einige behaupten, Laserwaffen hätten die Brände in Los Angeles ausgelöst – mit einem Foto als vermeintlichem Beweis. Doch weder das Bild noch die Behauptung halten einer Prüfung stand.</p>
+                                <p>Die Brände, die seit Anfang Januar 2025 in Los Angeles und Umgebung wüten, haben ein Bild der Verwüstung hinterlassen. Anhand eines Satellitenbildes, das eine Siedlung in der kalifornischen Stadt Paradise zeigen soll, fragt ein <a class="externalLink" href="https://ghostarchive.org/archive/e2OJL">Post</a> auf Facebook, warum Bäume unversehrt zu sein scheinen. Auch seien einzelne Häuser «fein säuberlich» ausgespart worden. Laut dem Post sehe dies aus wie «eine Art Laser-Chirurgie». Was sagen die Fakten? Und ist so etwas überhaupt möglich?</p>
+                                <h2>Bewertung</h2>
+                                <p>Das verbreitete Foto wurde bereits im Jahr 2018 aufgenommen. Von den Bränden im Januar 2025 ist die Siedlung in der kalifornischen Stadt Paradise nicht betroffen. Zudem ist die Behauptung, dass Bäume bei den aktuellen Bränden nicht brennen, falsch. Laserwaffen sind außerdem nicht in der Lage, Brände dieses Ausmaßes zu verursachen, erklärt ein Experte der Deutschen Presse-Agentur (dpa).</p>
+                                <h2>Fakten</h2>
+                                <p>Mithilfe einer <a class="externalLink" href="https://www.medienanstalt-nrw.de/fileadmin/user_upload/NeueWebsite_0120/Presse/Pressemitteilung/230303-HandbuchVerifikation_final">Bilderrückwärtssuche</a> lässt sich der Ursprung des Bildes ermitteln. Zwar zeigt es <a class="externalLink" href="https://www.n-tv.de/der_tag/Vorher-nachher-Bilder-aus-Paradise-article20730271.html">tatsächlich</a> eine Siedlung in der kalifornischen Stadt Paradise, es wurde aber bereits <a class="externalLink" href="https://www.spiegel.de/wissenschaft/natur/kalifornien-satellitenbilder-zeigen-paradise-vor-und-nach-waldbraenden-a-1239554.html">im Jahr 2018 </a>aufgenommen. <a class="externalLink" href="https://www.nist.gov/news-events/news/2021/02/new-timeline-deadliest-california-wildfire-could-guide-lifesaving-research">Damals</a> war die Stadt von <a class="externalLink" href="https://www.latimes.com/environment/story/2023-11-08/its-been-5-years-since-californias-deadliest-wildfire-can-we-stop-it-from-happening-again">verheerenden Bränden </a>betroffen. Die Stadt <a class="externalLink" href="https://www.google.com/maps/place/Paradise,+Kalifornien+95969,+USA/@37.2728542,-119.9763303,7.96z/data=!4m6!3m5!1s0x80832bd49578303f:0x50c92f9d6b33aa70!8m2!3d39.7596061!4d-121.6219177!16zL20vMHF5OHQ?entry=ttu&amp;g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D">befindet</a> sich zudem <a class="externalLink" href="https://www.fire.ca.gov/incidents/2025/1/7/palisades-fire">nicht</a> in den Gebieten, in denen Brände im Januar 2025 wüten. Das in dem Post verwendete Foto taugt somit nicht als Beleg für die Behauptungen.</p>
+                                <p><strong>«Waffen mit gerichteter Energie» noch in der Entwicklung</strong></p>
+                                <p>In dem verbreiteten Post ist die Abkürzung DEW genannt. Damit werden «Directed Energy Weapons», also «Waffen mit gerichteter Energie» <a class="externalLink" href="https://unidir.org/directed-energy-weapons-a-new-look-at-an-old-technology/">bezeichnet</a>. Seit 2024 hat das US-Militär tatsächlich verschiedene Prototypen solcher System getestet, hauptsächlich für Einsätze zur Bekämpfung von Drohnen. Denn dafür sind diese Waffen gedacht: elektronische Systeme aus der Ferne zu zerstören, nicht aber Waldbrände zu verursachen.</p>
+                                <p>Shawn Rostker, Analyst beim Center for Arms Control and Non-Proliferation, einer Nichtregierungsorganisation aus den USA, die sich für die Reduzierung von atomaren, chemischen und biologischen Waffen einsetzt, erklärt auf dpa-Anfrage: «DEWs befinden sich in einem frühen Stadium der Erprobung für den präzisen und örtlich begrenzten Einsatz in militärischen Kontexten und nicht für eine großflächige Umweltzerstörung.»</p>
+                                <p>«Um Brände in dem in Los Angeles beobachteten Ausmaß auszulösen, bräuchten die DEW massive Energiemengen und eine Infrastruktur, die Energie über große Gebiete leiten kann - Fähigkeiten, die weit über das hinausgehen, was heute vorhanden ist», fügt Shawn Rostker hinzu. Seiner Meinung nach lassen sich die Bilder, die also vermeintliche Belege für den Einsatz eines Lasers zeigen, leicht mit dem grundlegenden Verhalten von Feuer erklären. </p>
+                                <p>Die unbelegte Behauptung, Brände wären durch «Waffen mit gerichteter Energie» oder auch Laserwaffen ausgelöst worden, kursierte bereits Anfang August 2023. Damals wüteten Brände auf der <a class="externalLink" href="https://www.dw.com/de/faktencheck-energiewaffen-sind-nicht-ursache-f%C3%BCr-waldbr%C3%A4nde-in-maui/a-66558463">Insel Maui</a> auf Hawaii. Ein <a class="externalLink" href="https://dpa-factchecking.com/germany/230811-99-807254/">dpa-Faktencheck</a> konnte keine Hinweise auf einen Einsatz dieser Waffen finden. Auch im Zusammenhang mit dem Großbrand in der Stadt Paradise waren Falschbehauptungen <a class="externalLink" href="https://dpa-factchecking.com/germany/230831-99-26871/">aufgetaucht</a>.</p>
+                                <p><strong>Auch Bäume waren von Bränden in Los Angeles betroffen</strong></p>
+                                <p>Eine <a class="externalLink" href="https://www.cbsnews.com/news/palisades-fire-los-angeles-california-blazes-images/#textThe20Palisades20Fire20ravagesAP20PHOTOETHAN20SWOPE">Vielzahl</a> von Fotos <a class="externalLink" href="https://www.nbcdfw.com/news/national-international/images-palisades-fire-as-seen-from-around-southern-california/3735568/#:~:text=A%20palm%20tree%20burns%20during%20the%20Palisades%20Fire%20in%20the%20Pacific%20Palisades%20neighborhood%20on%20Jan.%207%2C%202025.">belegt</a> außerdem, dass Bäume bei den Bränden in und um Los Angeles <a class="externalLink" href="https://www.theatlantic.com/photo/2025/01/photos-palisades-fire-los-angeles-california/681241/">gebrannt</a> haben. Palmen gelten beispielsweise als besonders leicht <a class="externalLink" href="https://www.escondido.gov/DocumentCenter/View/4330/Palm-Trees-as-Fire-Hazards-PDF">entflammbar</a>. Dass einige Bäume trotzdem überlebt haben, liegt an ihren besonderen Eigenschaften. «Bäume sind mit Tausenden von Litern Wasser gefüllt», <a class="externalLink" href="https://www.cbc.ca/news/world/los-angeles-wildfire-trees-1.7428870">erklärt</a> Miranda Hart, Professorin für Biologie an der Universität von British Columbia, dem kanadischen Fernsehsender CBC News.</p>
+                                <p>«Wenn ein Baum mit Wasser gefüllt ist und etwas sehr Trockenes daneben steht, wird das Trockene zuerst brennen. So kann das Feuer einfach herumgehen, wenn es auf beiden Seiten genügend Brennstoff gibt», erklärt sie. Auch andere Faktoren würden laut Hart eine Rolle spielen, etwa ein schneller Windwechsel, der die Glut umlenken kann. </p>
+                                <p><strong>Wetterbedingungen verstärkten Brände in Los Angeles</strong></p>
+                                <p>Die Ermittlungen zu den Ursachen der aktuellen Brände in Los Angeles dauern an. Eine entscheidende Rolle bei der schnellen Ausbreitung der Flammen spielten jedoch <a class="externalLink" href="https://www.sueddeutsche.de/panorama/waldbraende-los-angeles-loeschen-li.3182076">die Wetterbedingungen</a>. Während Regenfälle normalerweise im Januar ihren Höhepunkt erreichen, hatte es in der Region in den Monaten vor den Bränden praktisch nicht geregnet. Hinzu kamen Winde, die die Brände <a class="externalLink" href="https://www.zdf.de/nachrichten/panorama/klima-kalifornien-los-angeles-feuer-100.html">noch verstärkten</a>. Wissenschaftlern <a class="externalLink" href="https://www.tagesspiegel.de/wissen/erneut-feuerwetter-in-los-angeles-klimawandel-erhoht-die-wahrscheinlichkeit-sich-schnell-ausbreitender-brande-13049464.html">zufolge</a> hängen diese Bedingungen mit dem menschengemachten Klimawandel zusammen.</p>
+                                <p>(Stand: 22.1.2025)</p>
+                                <div class="INFOBOX"><h2>Links</h2><p><a class="externalLink" href="https://www.dw.com/de/faktencheck-energiewaffen-sind-nicht-ursache-f%C3%BCr-waldbr%C3%A4nde-in-maui/a-66558463">DW-Faktencheck zu Bränden auf Hawaii</a> (<a class="externalLink" href="https://archive.today/cf9TN">archiviert</a>)</p><p><a class="externalLink" href="https://dpa-factchecking.com/germany/230811-99-807254/">dpa-Faktencheck zu Bränden auf Hawaii</a></p><p><a class="externalLink" href="https://dpa-factchecking.com/germany/230831-99-26871/">dpa-Faktencheck zu Bränden in Paradise</a></p><p><a class="externalLink" href="https://www.medienanstalt-nrw.de/fileadmin/user_upload/NeueWebsite_0120/Presse/Pressemitteilung/230303-HandbuchVerifikation_final">Informationen zur Bilderrückwärtssuche</a> (<a class="externalLink" href="https://archive.today/DFwrO">archiviert</a>)</p><p><a class="externalLink" href="https://www.google.com/maps/place/Paradise,+Kalifornien+95969,+USA/@37.2728542,-119.9763303,7.96z/data=!4m6!3m5!1s0x80832bd49578303f:0x50c92f9d6b33aa70!8m2!3d39.7596061!4d-121.6219177!16zL20vMHF5OHQ?entry=ttu&amp;g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D">Standort von kalifornischer Stadt Paradise</a> (<a class="externalLink" href="https://archive.today/b3dbz">archiviert</a>)</p><p><a class="externalLink" href="https://www.cbsnews.com/news/palisades-fire-los-angeles-california-blazes-images/#textThe20Palisades20Fire20ravagesAP20PHOTOETHAN20SWOPE">Fotos der Brände in Los Angeles I</a> (<a class="externalLink" href="https://archive.today/oABtu">archiviert</a>)</p><p><a class="externalLink" href="https://www.nbcdfw.com/news/national-international/images-palisades-fire-as-seen-from-around-southern-california/3735568/#:~:text=A%20palm%20tree%20burns%20during%20the%20Palisades%20Fire%20in%20the%20Pacific%20Palisades%20neighborhood%20on%20Jan.%207%2C%202025.">Fotos der Brände in Los Angeles II</a> (<a class="externalLink" href="https://archive.today/hPOtp">archiviert</a>)</p><p><a class="externalLink" href="https://www.theatlantic.com/photo/2025/01/photos-palisades-fire-los-angeles-california/681241/">Fotos der Brände in Los Angeles III</a> (<a class="externalLink" href="https://archive.today/d5lDa">archiviert</a>)</p><p><a class="externalLink" href="https://unidir.org/directed-energy-weapons-a-new-look-at-an-old-technology/">Informationen über DEW</a> (<a class="externalLink" href="https://web.archive.org/web/20250114193231/https://unidir.org/directed-energy-weapons-a-new-look-at-an-old-technology/">archiviert</a>)</p><p><a class="externalLink" href="https://www.spiegel.de/wissenschaft/natur/kalifornien-satellitenbilder-zeigen-paradise-vor-und-nach-waldbraenden-a-1239554.html">Spiegel über Brände in Paradise im Jahr 2018</a> (<a class="externalLink" href="https://web.archive.org/web/20240104061848/https://www.spiegel.de/wissenschaft/natur/kalifornien-satellitenbilder-zeigen-paradise-vor-und-nach-waldbraenden-a-1239554.html">archiviert</a>)</p><p><a class="externalLink" href="https://www.cbc.ca/news/world/los-angeles-wildfire-trees-1.7428870">CBC News-Artikel über Bäume bei den Bränden</a> (<a class="externalLink" href="https://archive.today/nX2I2">archiviert</a>)</p><p><a class="externalLink" href="https://www.escondido.gov/DocumentCenter/View/4330/Palm-Trees-as-Fire-Hazards-PDF">Informationen zur Entflammbarkeit von Palmen</a> (<a class="externalLink" href="https://web.archive.org/web/20250114102435/https://www.escondido.gov/DocumentCenter/View/4330/Palm-Trees-as-Fire-Hazards-PDF">archiviert</a>)</p><p><a class="externalLink" href="https://www.latimes.com/environment/story/2023-11-08/its-been-5-years-since-californias-deadliest-wildfire-can-we-stop-it-from-happening-again">LA Times-Artikel zu Bränden in Paradise in 2018</a> (<a class="externalLink" href="https://archive.today/7RcHc">archiviert</a>)</p><p><a class="externalLink" href="https://www.fire.ca.gov/incidents/2025/1/7/palisades-fire">Betroffenes Gebiet der Brände in Los Angeles</a> (<a class="externalLink" href="https://perma.cc/F9X6-ECV6">archiviert</a>)</p><p><a class="externalLink" href="https://www.sueddeutsche.de/panorama/waldbraende-los-angeles-loeschen-li.3182076">SZ-Interview zu Ursachen der Brände in Los Angeles</a> (<a class="externalLink" href="https://archive.vn/6F2Jj">archiviert</a>)</p><p><a class="externalLink" href="https://www.nist.gov/news-events/news/2021/02/new-timeline-deadliest-california-wildfire-could-guide-lifesaving-research">Bericht über Brände in Paradise im Jahr 2018</a> (<a class="externalLink" href="https://web.archive.org/web/20250117234023/https://www.nist.gov/news-events/news/2021/02/new-timeline-deadliest-california-wildfire-could-guide-lifesaving-research">archiviert</a>)</p><p><a class="externalLink" href="https://www.zdf.de/nachrichten/panorama/klima-kalifornien-los-angeles-feuer-100.html">ZDF-Artikel zu Ursachen der Brände in Los Angeles</a> (<a class="externalLink" href="https://web.archive.org/web/20250114210102/https://www.zdf.de/nachrichten/panorama/klima-kalifornien-los-angeles-feuer-100.html">archiviert</a>)</p><p><a class="externalLink" href="https://www.tagesspiegel.de/wissen/erneut-feuerwetter-in-los-angeles-klimawandel-erhoht-die-wahrscheinlichkeit-sich-schnell-ausbreitender-brande-13049464.html">Tagesspiegel zu Ursachen der Brände in Los Angeles</a> (<a class="externalLink" href="https://web.archive.org/web/20250122135930/https://www.tagesspiegel.de/wissen/erneut-feuerwetter-in-los-angeles-klimawandel-erhoht-die-wahrscheinlichkeit-sich-schnell-ausbreitender-brande-13049464.html">archiviert</a>)</p><p><a class="externalLink" href="https://www.n-tv.de/der_tag/Vorher-nachher-Bilder-aus-Paradise-article20730271.html">ntv-Artikel mit Satellitenaufnahme aus 2018</a> (<a class="externalLink" href="https://archive.today/nv0mm">archiviert</a>)</p><p><a class="externalLink" href="https://www.facebook.com/jojo.ungar.9/posts/pfbid02d1bKUJjPYbqJ4zVX9UectEVgNSrnTmqLCiZQuF269pmjVjnvGaYvgTfE7yNHUcLYl">Facebook-Post</a> (<a class="externalLink" href="https://ghostarchive.org/archive/e2OJL">archiviert</a>)</p></div>
+                        </section>
+                        </body>
+                        </html>
+                    </inlineXML>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

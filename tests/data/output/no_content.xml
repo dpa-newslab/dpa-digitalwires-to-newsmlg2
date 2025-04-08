@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:dpa.com:20090101:europapress:photo-20241121130950" standard="NewsML-G2" standardversion="2.32"
+                  version="1" xml:lang="es">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <usageTerms>None</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:picture"/>
+                <provider qcode="dnlprov:dpa">
+                    <name>dpa</name>
+                </provider>
+                <versionCreated>2024-11-21T13:10:18+01:00</versionCreated>
+                    <pubStatus qcode="stat:usable">
+                        <name>usable</name>
+                    </pubStatus>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:europapress-int">
+                            <name>europapress-int</name>
+                    </service>
+            </itemMeta>
+            <contentMeta>
+                <urgency>4</urgency>
+                    <contentCreated>2016-04-21</contentCreated>
+
+
+                    <creator >
+                            <name>EUROPA PRESS</name>
+                    </creator>
+
+                    <contributor >
+                            <name>Europa Press</name>
+                    </contributor>
+
+
+                    <subject qcode="dpacat:wi" type="dpatype:category">
+                            <name>economics</name>
+                    </subject>
+
+                
+                <keyword >ECONOMIA</keyword>
+                <keyword >ESPAÑA</keyword>
+                <keyword >EUROPA</keyword>
+                
+                <language tag="es"/>
+
+                <headline rank="1">Archivo - Monedas, moneda, billete, billetes,euro ,euros, capital, efectivo, metálico, riqueza</headline>
+                
+                
+                
+                <creditline>Europa Press</creditline>
+                                                <description role="drol:caption">21/04/2016 Monedas, moneda, billete, billetes,euro ,euros, capital, efectivo, metálico, riqueza EUROPA ESPAÑA ECONOMIA</description>
+            </contentMeta>
+            <contentSet>
+                        <remoteContent contenttype="image/jpeg" href="https://d3hzhyitlnc455.cloudfront.net/v3/image/resize/urn:newsml:dpa.com:20090101:europapress:photo-20241121130950-v1-s2048.jpeg?signature=hG-SOwclZcufRNeTigNs2gsGuzQ&amp;expires=1732406400"/>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

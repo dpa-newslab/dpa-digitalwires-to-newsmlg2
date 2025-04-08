@@ -1,0 +1,241 @@
+{
+    "format": "digitalwires@0.9.1",
+    "type": "composite",
+    "entry_id": "LEP5Vqg5SNFqqSeUdCOzfei2OvkEedvfnqr3Cwzhd0",
+    "updated": "2025-01-23T16:28:31Z",
+    "urn": "urn:newsml:dpa.com:20090101:250123-930-353124",
+    "version_created": "2025-01-23T14:10:47+01:00",
+    "version": 1,
+    "pubstatus": "usable",
+    "signal": null,
+    "embargoed": "2025-01-23T19:00:00+01:00",
+    "content_created": null,
+    "language": "de",
+    "urgency": 4,
+    "kicker": "Ausstellung",
+    "headline": "Steinmeier: Russland zerstört kulturelles Erbe der Ukraine",
+    "subhead": null,
+    "teaser": "Eine Ausstellung in Berlin zeigt vor dem Krieg gerettete Gemälde aus Odessa. Bundespräsident Steinmeier bezeichnet den russischen Angriffskrieg auch als einen Krieg gegen die Kultur der Ukraine.",
+    "byline": null,
+    "dateline": "Berlin (dpa) - ",
+    "article_html": "<section class=\"main\"><p>Bundespräsident Frank-Walter Steinmeier hat vor der Zerstörung des kulturellen Erbes der Ukraine im russischen Angriffskrieg gewarnt. «Russlands blutiger Angriffskrieg ist auch ein Krieg gegen die Kultur der Ukraine», sagte Steinmeier laut Redemanuskript bei der Eröffnung einer Ausstellung mit Kunst aus der Ukraine in der Berliner Gemäldegalerie. Die Schau mache dies einem bewusst.</p><p>«In zahllosen ukrainischen Städten wurden und werden in diesem Krieg Baudenkmäler beschädigt, Kultureinrichtungen zerstört, Kunstwerke geraubt», sagte Steinmeier. Angriffe auf Museen, Theater, Opern und Bibliotheken zielten darauf ab, das «kulturelle Gedächtnis» der Ukraine auszulöschen. </p><p>Die Sonderausstellung zeige aber auch, mit welcher Kraft die Menschen in der Ukraine in Kriegszeiten ihre kulturelle Heimat verteidigten. Sie sei zudem ein «schöner Moment der deutsch-ukrainischen Freundschaft». Steinmeier sicherte der Ukraine weiter Unterstützung vonseiten Deutschlands zu. </p><h2>Gemälde aus Odessa mit Werken aus Berliner Sammlungen im Dialog</h2><p>Knapp drei Jahre nach dem Start des russischen Angriffskriegs sind in der Berliner Gemäldegalerie gerettete Werke aus dem Odessa Museum für Westliche und Östliche Kunst zu sehen. </p><p>Unter dem Titel «Von Odesa nach Berlin. Europäische Malerei des 16. bis 19. Jahrhunderts» treten 60 Gemälde aus der südukrainischen Hafenstadt mit Werken aus Berliner Sammlungen in einen Dialog. </p><p>Steinmeier ist Schirmherr für das deutsch-ukrainische Kooperationsprojekt. Die Werke aus Odessa waren im September 2023 nach Berlin gekommen und wurden konservatorisch bearbeitet. Die Ausstellung wird vom Haus von Kulturstaatsministerin Claudia Roth gefördert und läuft bis zum 22. Juni.</p><p>Danach soll sie im Kurpfälzischen Museum in Heidelberg zu sehen sein (19. Oktober 2025 bis 22. März 2026).</p></section>",
+    "infobox_html": null,
+    "linkbox_html": "<section class=\"linkbox\"><ul><li><a href=\"https://dpaq.de/FFJbkHx\">Informationen zur Ausstellung</a></li></ul></section>",
+    "creditline": "dpa",
+    "copyrightnotice": "Copyright 2025, dpa (www.dpa.de). Alle Rechte vorbehalten",
+    "usageterms": "Nutzung nur nach schriftlicher Vereinbarung mit dpa\nUse only with the written agreement with dpa",
+    "autopublishnotice": null,
+    "notepad": {
+        "header_html": "<header><h3>Notizblock</h3></header>",
+        "public_html": "<section class=\"np-public\"><h4>Redaktionelle Hinweise</h4><ul><li class=\"embargoed\">Sperrfrist 23. Januar 19.00 Uhr - Bitte beachten Sie die Sperrfrist der Meldung bis heute Abend (23.01.), 19.00 Uhr.</li><li>Die Berliner Gemäldegalerie nutzt laut eigenen Angaben die an das Ukrainische angelehnte Schreibweise der Stadt «Odessa» mit nur einem «s», also «Odesa».</li><li>Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:</li><li>Bundespräsident Steinmeier</li></ul><h4>Internet</h4><ul><li><a href=\"https://dpaq.de/FFJbkHx\">Informationen zur Ausstellung</a></li></ul><h4>Orte</h4><ul><li>[Kulturforum](Matthäikirchplatz, 10785 Berlin, Deutschland)</li></ul></section>",
+        "nonpublic_html": "<section class=\"np-nonpublic\"><p>Die folgenden Informationen sind nicht zur Veröffentlichung bestimmt</p><h4>Kontakte</h4><ul><li>Autor/in: Sabrina Szameitat (Berlin) +49 30 285 231 692, Szameitat.Sabrina@dpa.com</li><li>Redaktion: Foto: Newsdesk, +49 30 2852 31515, &lt;foto@dpa.com&gt;, Gregor Tholl (Berlin) +49 30 2852-32292, kultur@dpa.com</li></ul></section>"
+    },
+    "ednotes": [
+        {
+            "role": "dpaednoterole:embargo",
+            "ednote": "Bitte beachten Sie die Sperrfrist der Meldung bis heute Abend (23.01.), 19.00 Uhr.",
+            "is_publishable": true
+        },
+        {
+            "role": "dpaednoterole:closingline",
+            "ednote": "dpa sza yybb n1 gth",
+            "is_publishable": true
+        },
+        {
+            "role": "dpaednoterole:editorialnote",
+            "ednote": "Die Berliner Gemäldegalerie nutzt laut eigenen Angaben die an das Ukrainische angelehnte Schreibweise der Stadt «Odessa» mit nur einem «s», also «Odesa».",
+            "is_publishable": true
+        },
+        {
+            "role": "dpaednoterole:editorialnote",
+            "ednote": "Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:",
+            "is_publishable": true
+        },
+        {
+            "role": "dpaednoterole:editorialnote",
+            "ednote": "Bundespräsident Steinmeier",
+            "is_publishable": true
+        },
+        {
+            "role": "dpaednoterole:dpacontacts",
+            "ednote": "Autor/in: Sabrina Szameitat (Berlin) +49 30 285 231 692, Szameitat.Sabrina@dpa.com",
+            "is_publishable": false
+        },
+        {
+            "role": "dpaednoterole:dpacontacts",
+            "ednote": "Redaktion: Foto: Newsdesk, +49 30 2852 31515, <foto@dpa.com>, Gregor Tholl (Berlin) +49 30 2852-32292, kultur@dpa.com",
+            "is_publishable": false
+        },
+        {
+            "role": "dpaednoterole:picture",
+            "ednote": "Foto Archiv und aktuell geplant",
+            "is_publishable": true
+        }
+    ],
+    "descriptions": null,
+    "associations": [],
+    "categories": [
+        {
+            "type": "dnltype:pubstatus",
+            "name": "usable",
+            "qcode": "stat:usable"
+        },
+        {
+            "type": "dnltype:wire",
+            "name": "bdt",
+            "qcode": "dpasrv:bdt"
+        },
+        {
+            "type": "dnltype:wire",
+            "name": "bid",
+            "qcode": "dpasrv:bid"
+        },
+        {
+            "type": "dnltype:wire",
+            "name": "brb",
+            "qcode": "dpasrv:brb"
+        },
+        {
+            "type": "dnltype:wire",
+            "name": "edi",
+            "qcode": "dpasrv:edi"
+        },
+        {
+            "type": "dnltype:wire",
+            "name": "edt",
+            "qcode": "dpasrv:edt"
+        },
+        {
+            "type": "dnltype:wire",
+            "name": "erd",
+            "qcode": "dpasrv:erd"
+        },
+        {
+            "type": "dnltype:creator",
+            "name": "tholl.gregor",
+            "qcode": null,
+            "role": null
+        },
+        {
+            "type": "dnltype:contributor",
+            "name": "tholl.gregor",
+            "qcode": "dpa-ad:tholl.gregor",
+            "role": null
+        },
+        {
+            "type": "dnltype:dpasubject",
+            "name": "Ausstellungen",
+            "qcode": "dpasubject:185",
+            "rank": 1
+        },
+        {
+            "type": "dnltype:dpasubject",
+            "name": "Krieg",
+            "qcode": "medtop:20000062",
+            "rank": 2
+        },
+        {
+            "type": "dnltype:dpasubject",
+            "name": "Konflikte",
+            "qcode": "dpasubject:114",
+            "rank": 3
+        },
+        {
+            "type": "dnltype:dpasubject",
+            "name": "Kunst",
+            "qcode": "dpasubject:118",
+            "rank": 4
+        },
+        {
+            "type": "dnltype:geosubject",
+            "name": "Berlin",
+            "qcode": "dpaarea:3",
+            "rank": 1
+        },
+        {
+            "type": "dnltype:geosubject",
+            "name": "Ukraine",
+            "qcode": "dpacountry:181",
+            "rank": 2
+        },
+        {
+            "type": "dnltype:geosubject",
+            "name": "Deutschland",
+            "qcode": "dpacountry:1",
+            "rank": 3
+        },
+        {
+            "type": "dnltype:geosubject",
+            "name": "Russland",
+            "qcode": "dpacountry:139",
+            "rank": 4
+        },
+        {
+            "type": "dnltype:desk",
+            "name": "ku",
+            "qcode": "dpacat:ku"
+        },
+        {
+            "type": "dnltype:genre",
+            "name": "Meldung",
+            "qcode": "dpatextgenre:1"
+        },
+        {
+            "type": "dnltype:poi",
+            "name": "Kulturforum, Matthäikirchplatz, 10785 Berlin, Deutschland",
+            "qcode": null,
+            "geojson": {
+                "type": "Feature",
+                "properties": {
+                    "name": "Kulturforum",
+                    "formatted_address": "Matthäikirchplatz, 10785 Berlin, Deutschland",
+                    "locality": "Berlin",
+                    "administrative_area_level_1": "Gemäldegalerie, Matthäikirchplatz, 10785 Berlin, Deutschland",
+                    "country": "Deutschland"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.36597,
+                        52.50886
+                    ]
+                }
+            }
+        },
+        {
+            "type": "dnltype:urgency",
+            "name": "4",
+            "qcode": "urgency:4"
+        },
+        {
+            "type": "dnltype:provider",
+            "name": "dpa",
+            "qcode": "dnlprov:dpa"
+        }
+    ],
+    "current_rubric_names": [],
+    "rubric_names": [],
+    "dpasubject_names": [
+        "Ausstellungen",
+        "Krieg",
+        "Konflikte",
+        "Kunst"
+    ],
+    "geosubject_names": [
+        "Berlin",
+        "Ukraine",
+        "Deutschland",
+        "Russland"
+    ],
+    "keyword_names": [],
+    "desk_names": [
+        "ku"
+    ],
+    "genre_names": [
+        "Meldung"
+    ],
+    "poi_names": [
+        "Kulturforum, Matthäikirchplatz, 10785 Berlin, Deutschland"
+    ],
+    "scope_names": []
+}

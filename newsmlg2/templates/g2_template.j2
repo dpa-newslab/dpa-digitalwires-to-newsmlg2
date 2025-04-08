@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="{{ urn }}" standard="NewsML-G2" standardversion="2.32"
+                  version="{{ version }}" xml:lang="{{ language }}">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                {% if copyright_notice %}
+                    <copyrightNotice>{{ copyright_notice }}</copyrightNotice>
+                {% endif %}
+                {% for usageterm in usageterms %}
+                    <usageTerms>{{ usageterm }}</usageTerms>
+                {% endfor %}
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="{{ item_class.qcode }}"/>
+                <provider qcode="{{ provider.qcode }}">
+                    <name>{{ provider.name }}</name>
+                </provider>
+                <versionCreated>{{ version_created }}</versionCreated>
+                {% if embargoed %}
+                    <embargoed>{{ embargoed }}</embargoed>
+                {% endif %}
+                {% if pubstatus.qcode %}
+                    <pubStatus qcode="{{ pubstatus.qcode }}">
+                        <name>{{ pubstatus.name }}</name>
+                    </pubStatus>
+                {% endif %}
+                <generator versioninfo="{{ generator.version }}">{{ generator.name }}</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                {% for service in services %}
+                    <service qcode="{{ service.qcode }}">
+                        {% if service.name %}
+                            <name>{{ service.name }}</name>
+                        {% endif %}
+                    </service>
+                {% endfor %}
+                {% if title %}
+                    <title>{{ title }}</title>
+                {% endif %}
+                {% for ednote in ednotes %}
+                    <edNote {% if ednote.role %}role="{{ ednote.role }}" {% endif -%}
+                            {%- if ednote.constraint -%}
+                            pubconstraint="{{ ednote.constraint }}"{%- endif %}>{{ ednote.text }}</edNote>
+                {% endfor %}
+                {% if notepad %}
+                    <edNote role="dpaednoterole:notepad">
+                        <section xmlns="http://www.w3.org/1999/xhtml" class="notepad">
+                            {% if notepad.header %}{{ notepad.header | safe }}{% endif %}
+                            {% if notepad.public %}{{ notepad.public | safe }}{% endif %}
+                            {% if notepad.non_public %}{{ notepad.non_public | safe }}{% endif %}
+                            {% if notepad.closingline %}<p class="closingline">{{ notepad.closingline }}</p>{% endif %}
+                        </section>
+                    </edNote>
+                {% endif %}
+                {% if signals %}
+                    {% for signal in signals %}
+                        <signal qcode="{{ signal }}"/>
+                    {% endfor %}
+                {% endif %}
+                {% for link in association_links %}
+                    <link{% if link.rel %} rel="{{ link.rel }}"{% endif %}
+                            {% if link.rank %} rank="{{ link.rank }}"{% endif %}
+                            {% if link.urn %} residref="{{ link.urn }}"{% endif %}
+                            {% if link.href %} href="{{ link.href }}"{% endif %}
+                            {% if link.version %} version="{{ link.version }}"{% endif %}>
+                    {% if link.itemClass %}
+                        <itemClass qcode="{{ link.itemClass }}"/>
+                    {% endif %}
+                    {% if link.title %}
+                        <title>{{ link.title }}</title>
+                    {% endif %}
+                    </link>
+                {% endfor %}
+            </itemMeta>
+            <contentMeta>
+                <urgency>{{ urgency }}</urgency>
+                {% if content_created %}
+                    <contentCreated>{{ content_created }}</contentCreated>
+                {% endif %}
+                {% for located in located_list %}
+                    {% if located and not located.qcode %}
+                        <located>
+                            <name>{{ located.name }}</name>
+                        </located>
+                    {% endif %}
+                    {% if located and located.qcode %}
+                        <located qcode="{{ located.qcode }}">
+                            <name>{{ located.name }}</name>
+                        </located>
+                    {% endif %}
+                {% endfor %}
+
+                {% for infosource in info_sources %}
+                    {% if infosource.qcode and infosource.name %}
+                        <infoSource role="{{ infosource.role }}" qcode="{{ infosource.qcode }}">
+                            <name>{{ infosource.name }}</name>
+                        </infoSource>
+                    {% elif infosource.name %}
+                        <infoSource role="{{ infosource.role }}">
+                            <name>{{ infosource.name }}</name>
+                        </infoSource>
+                    {% else %}
+                        <infoSource role="{{ infosource.role }}" qcode="{{ infosource.qcode }}"/>
+                    {% endif %}
+                {% endfor %}
+
+                {% for creator in creators %}
+                    <creator {% if creator.qcode %}qcode="{{ creator.qcode }}"{% endif %}
+                             {% if creator.role %}role="{{ creator.role }}"{% endif %}>
+                        {% if creator.name %}
+                            <name>{{ creator.name }}</name>
+                        {% endif %}
+                    </creator>
+                {% endfor %}
+
+                {% for contributor in contributors %}
+                    <contributor {% if contributor.qcode %}qcode="{{ contributor.qcode }}"{% endif %}
+                                 {% if contributor.role %}role="{{ contributor.role }}"{% endif %}>
+                        {% if contributor.name %}
+                            <name>{{ contributor.name }}</name>
+                        {% endif %}
+                    </contributor>
+                {% endfor %}
+
+                {% if genre %}
+                    <genre qcode="{{ genre.qcode }}">
+                        <name>{{ genre.name }}</name>
+                    </genre>
+                {% endif %}
+
+                {% for subject in subjects %}
+                    <subject {% if subject.qcode %}qcode="{{ subject.qcode }}"{% endif %} type="{{ subject.type }}"
+                            {%- if subject.rank %} rank="{{ subject.rank }}"{% endif %}>
+                        {% if subject.name %}
+                            <name>{{ subject.name }}</name>
+                        {% endif %}
+                    </subject>
+                {% endfor %}
+                {% if pois %}
+                    {% for poi in pois %}
+                        <subject literal="{{ poi.literal }}" rank="{{ poi.rank }}" type="cpnat:poi">
+                            {% if poi.name %}
+                                <name>{{ poi.name }}</name>
+                            {% endif %}
+                        </subject>
+                    {% endfor %}
+                {% endif %}
+
+                {%+ for audience in audiences -%}
+                    <audience qcode="{{ audience.qcode }}">
+                        {%+ if audience.name -%}
+                            <name>{{ audience.name }}</name>
+                        {%- endif %}
+                    </audience>
+                {%+ endfor %}
+
+                {%+ for keyword in keywords -%}
+                    <keyword {% if keyword.rank %}rank="{{ keyword.rank }}"{% endif %}>{{ keyword.name }}</keyword>
+                {%+ endfor %}
+
+                <language tag="{{ language }}"/>
+
+                <headline rank="1">{{ headline }}</headline>
+                {%+ if kicker -%}
+                    <headline rank="3">{{ kicker }}</headline>
+                {%- endif %}
+
+                {%+ if dateline -%}
+                    <dateline>{{ dateline }}</dateline>
+                {%- endif %}
+
+                {%+ if byline -%}
+                    <by>{{ byline }}</by>
+                {%- endif %}
+
+                {%+ if credit -%}
+                    <creditline>{{ credit }}</creditline>
+                {%- endif %}
+
+                {%+ if teaser -%}
+                    <description role="drol:teaser">{{ teaser }}</description>
+                {%- endif %}
+                {%+ if description -%}
+                    <description role="drol:summary">{{ description }}</description>
+                {%- endif %}
+                {%+ for desc in descriptions -%}
+                    <description role="{{ desc.role }}">{{ desc.value }}</description>
+                {%- endfor %}
+
+            </contentMeta>
+            {% if pois %}
+                {% for poi in pois %}
+                    <assert literal="{{ poi.literal }}">
+                        <POIDetails>
+                            <position latitude="{{ poi.latitude }}" longitude="{{ poi.longitude }}"/>
+                            <address>
+                                <line role="nrol:display">{{ poi.name }}</line>
+                                <line role="nrol:full">{{ poi.address }}</line>
+                                <locality role="dpalocalityrole:locality">
+                                    <name>{{ poi.city }}</name>
+                                </locality>
+                                <area role="dpaarearole:area">
+                                <name>{{ poi.address }}</name>
+                                </area>
+                                <country type="cpnat:geoArea">
+                                    <name>{{ poi.country }}</name>
+                                </country>
+                            </address>
+                        </POIDetails>
+                    </assert>
+                {% endfor %}
+            {% endif %}
+            <contentSet>
+                {% if article_html %}
+                    <inlineXML contenttype="application/xhtml+xml">
+                        <html xmlns="http://www.w3.org/1999/xhtml">
+                        <head>
+                            <meta charset="utf-8"/>
+                            <title>{{ headline }}</title>
+                        </head>
+                        <body>
+                        <header>
+                            <time class="publicationDate"
+                                  data-datetime="{{ version_created }}">{{ version_created|datetimeformat('%d.%m.%Y %H:%M') }}</time>
+                            {% if sluglines %}
+                                <ul class="slugline">
+                                    {% for slugline in sluglines %}
+                                        <li class="{{ slugline.kind }}"
+                                            {%+ if slugline.qcode %}data-qcode="{{ slugline.qcode }}"{%- endif %}>{{ slugline.name }}</li>
+                                    {% endfor %}
+                                </ul>
+                            {% endif %}
+                            {% if embargoed %}
+                                <strong class="embargoed" data-datetime="{{ embargoed }}">{{ embargo_notice }}</strong>
+                            {% endif %}
+                            {% if headline %}
+                                <h1>{{ headline }}</h1>
+                            {% endif %}
+                            {% if kicker %}
+                                <h3>{{ kicker }}</h3>
+                            {% endif %}
+                            {% if byline %}
+                                <p class="byline">{{ byline }}</p>
+                            {% endif %}
+                        </header>
+                        <section class="main {%+ if genre.qcode %}{{ genre.qcode.replace(":", "_") }}{% endif %}">
+                            {% if teaser %}
+                                <p class="teaser">{{ teaser }}</p>
+                            {% endif %}
+                            {% for paragraph in article_html %}
+                                {{ paragraph | safe }}
+                            {% endfor %}
+                            {% if infobox %}
+                                {{ infobox | safe }}
+                            {% endif %}
+                        </section>
+                        </body>
+                        </html>
+                    </inlineXML>
+                {% endif %}
+                {% if remote_contents %}
+                    {% for remote_content in remote_contents %}
+                        <remoteContent contenttype="{{ remote_content.contenttype }}" href="{{ remote_content.href }}"
+                                {%- if remote_content.width %} width="{{ remote_content.width }}"{% endif %}
+                                {%- if remote_content.height %} height="{{ remote_content.height }}"{% endif %}
+                                {%- if remote_content.bitrate %} bitrate="{{ remote_content.bitrate }}"{% endif %}
+                                {%- if remote_content.samplerate %}
+                                       samplerate="{{ remote_content.samplerate }}"{% endif %}/>
+                    {% endfor %}
+                {% endif %}
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

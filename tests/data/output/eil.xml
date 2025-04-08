@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:dpa.com:20090101:240925-930-242744" standard="NewsML-G2" standardversion="2.32"
+                  version="1" xml:lang="de">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <copyrightNotice>Copyright 2024, dpa (www.dpa.de). Alle Rechte vorbehalten</copyrightNotice>
+                    <usageTerms>Nutzung nur nach schriftlicher Vereinbarung mit dpa
+Use only with the written agreement with dpa</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:text"/>
+                <provider qcode="dnlprov:dpa">
+                    <name>dpa</name>
+                </provider>
+                <versionCreated>2024-09-25T10:37:24+02:00</versionCreated>
+                    <pubStatus qcode="stat:usable">
+                        <name>usable</name>
+                    </pubStatus>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:bdt">
+                            <name>bdt</name>
+                    </service>
+                    <service qcode="dpasrv:bid">
+                            <name>bid</name>
+                    </service>
+                    <edNote role="dpaednoterole:closingline" >dpa abc yydd n1 sku</edNote>
+                    <edNote role="dpaednoterole:editorialnote" >Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:</edNote>
+                    <edNote role="dpaednoterole:editorialnote" >dpa-Eilmeldung</edNote>
+                    <edNote role="dpaednoterole:notepad">
+                        <section xmlns="http://www.w3.org/1999/xhtml" class="notepad">
+<header><h3>Notizblock</h3></header><section class="np-public"><h4>Redaktionelle Hinweise</h4><ul><li>Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:</li><li>dpa-Eilmeldung</li></ul></section><p class="closingline">dpa abc yydd n1 sku</p>                        </section>
+                    </edNote>
+            </itemMeta>
+            <contentMeta>
+                <urgency>2</urgency>
+
+
+                    <creator >
+                            <name>kunigkeit.sebastian</name>
+                    </creator>
+
+                    <contributor qcode="dpa-ad:kunigkeit.sebastian">
+                            <name>kunigkeit.sebastian</name>
+                    </contributor>
+
+                    <genre qcode="dpatextgenre:1">
+                        <name>Meldung</name>
+                    </genre>
+
+                    <subject qcode="dpacat:pl" type="dpatype:category">
+                            <name>pl</name>
+                    </subject>
+                    <subject qcode="dpacountry:1" type="cpnat:geoArea" rank="1">
+                            <name>Deutschland</name>
+                    </subject>
+                    <subject qcode="medtop:20000651" type="dpatype:dpasubject" rank="1">
+                            <name>Partei</name>
+                    </subject>
+
+                
+                <keyword rank="1">Grüne</keyword>
+                
+                <language tag="de"/>
+
+                <headline rank="1">Grünen-Spitze tritt nach Wahlniederlagen ab</headline>
+                
+                <dateline>Berlin (dpa) - </dateline>
+                
+                <creditline>dpa</creditline>
+                                                
+            </contentMeta>
+            <contentSet>
+                    <inlineXML contenttype="application/xhtml+xml">
+                        <html xmlns="http://www.w3.org/1999/xhtml">
+                        <head>
+                            <meta charset="utf-8"/>
+                            <title>Grünen-Spitze tritt nach Wahlniederlagen ab</title>
+                        </head>
+                        <body>
+                        <header>
+                            <time class="publicationDate"
+                                  data-datetime="2024-09-25T10:37:24+02:00">25.09.2024 10:37</time>
+                                <ul class="slugline">
+                                        <li class="subject"
+                                            data-qcode="medtop:20000651">Partei</li>
+                                        <li class="geo"
+                                            data-qcode="dpacountry:1">Deutschland</li>
+                                        <li class="keyword"
+                                            >Grüne</li>
+                                </ul>
+                                <h1>Grünen-Spitze tritt nach Wahlniederlagen ab</h1>
+                        </header>
+                        <section class="main dpatextgenre_1">
+                                <p><span class="dateline">Berlin <span class="credit">(dpa)</span> - </span>Die Grünen-Spitze zieht nach den Misserfolgen der Partei bei mehreren Wahlen personelle Konsequenzen. Die Co-Vorsitzenden Ricarda Lang und Omid Nouripour gaben in Berlin den Rücktritt des gesamten Parteivorstandes im November bekannt. Zuvor hatte das Nachrichtenportal «Table Media» berichtet.</p>
+                        </section>
+                        </body>
+                        </html>
+                    </inlineXML>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>

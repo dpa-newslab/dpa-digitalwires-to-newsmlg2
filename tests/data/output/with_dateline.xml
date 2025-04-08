@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+    <itemSet>
+        <newsItem conformance="power" guid="urn:newsml:dpa.com:20090101:250128-930-357319" standard="NewsML-G2" standardversion="2.32"
+                  version="2" xml:lang="de">
+            <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_32.xml"/>
+            <rightsInfo>
+                    <copyrightNotice>Copyright 2025, dpa (www.dpa.de). Alle Rechte vorbehalten</copyrightNotice>
+                    <usageTerms>Nutzung nur nach schriftlicher Vereinbarung mit dpa
+Use only with the written agreement with dpa</usageTerms>
+            </rightsInfo>
+            <itemMeta>
+                <itemClass qcode="ninat:text"/>
+                <provider qcode="dnlprov:dpa">
+                    <name>dpa</name>
+                </provider>
+                <versionCreated>2025-01-28T09:18:34+01:00</versionCreated>
+                    <pubStatus qcode="stat:usable">
+                        <name>usable</name>
+                    </pubStatus>
+                <generator versioninfo="0.0.1">dpa-digitalwires-to-newsmlg2</generator>
+                <profile versioninfo="0.9">dpa-G2-from-digitalwires</profile>
+                    <service qcode="dpasrv:bdt">
+                            <name>bdt</name>
+                    </service>
+                    <service qcode="dpasrv:edi">
+                            <name>edi</name>
+                    </service>
+                    <service qcode="dpasrv:edt">
+                            <name>edt</name>
+                    </service>
+                    <service qcode="dpasrv:erd">
+                            <name>erd</name>
+                    </service>
+                    <edNote role="dpaednoterole:closingline" >dpa so yyon z2 a3 vni/dmo</edNote>
+                    <edNote role="dpaednoterole:editorialnote" >Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:</edNote>
+                    <edNote role="dpaednoterole:editorialnote" >DeepSeek - Chinesisches KI-Start-up schockiert die Börse</edNote>
+                    <edNote role="dpaednoterole:editorialnote" >Nvidia</edNote>
+                    <edNote role="dpaednoterole:dpacontacts" pubconstraint="dpapconstraint:nonpublic">Autor/in: Andrej Sokolow (San Jose) +49 151 42639746, sokolow.andrej@dpa.com</edNote>
+                    <edNote role="dpaednoterole:dpacontacts" pubconstraint="dpapconstraint:nonpublic">Redaktion: Valeria Nickel (Berlin) +49 30 285231687, wirtschaft@dpa.com, Foto: Newsdesk, +49 30 2852 31515, &lt;foto@dpa.com&gt;</edNote>
+                    <edNote role="dpaednoterole:picture" >Foto Archiv</edNote>
+                    <edNote role="dpaednoterole:correction" >Sendeziel für Digitalprodukte ergänzt.</edNote>
+                    <edNote role="dpaednoterole:correctionshort" >Sendeziel für Digitalprodukte ergänzt.</edNote>
+                    <edNote role="dpaednoterole:notepad">
+                        <section xmlns="http://www.w3.org/1999/xhtml" class="notepad">
+<header><h3>Notizblock</h3></header><section class="np-public"><h4>Aktualisierung</h4><ul><li>Sendeziel für Digitalprodukte ergänzt.</li></ul><h4>Redaktionelle Hinweise</h4><ul><li>Zu diesem Text finden Sie Bilder mit folgendem Titel im dpa Bildangebot:</li><li>DeepSeek - Chinesisches KI-Start-up schockiert die Börse</li><li>Nvidia</li></ul></section><section class="np-nonpublic"><p>Die folgenden Informationen sind nicht zur Veröffentlichung bestimmt</p><h4>Kontakte</h4><ul><li>Autor/in: Andrej Sokolow (San Jose) +49 151 42639746, sokolow.andrej@dpa.com</li><li>Redaktion: Valeria Nickel (Berlin) +49 30 285231687, wirtschaft@dpa.com, Foto: Newsdesk, +49 30 2852 31515, &lt;foto@dpa.com&gt;</li></ul></section><p class="closingline">dpa so yyon z2 a3 vni/dmo</p>                        </section>
+                    </edNote>
+                        <signal qcode="sig:update"/>
+            </itemMeta>
+            <contentMeta>
+                <urgency>3</urgency>
+
+
+                    <creator >
+                            <name>nickel.valeria</name>
+                    </creator>
+
+                    <contributor qcode="dpa-ad:nickel.valeria">
+                            <name>nickel.valeria</name>
+                    </contributor>
+                    <contributor qcode="dpa-ad:mollitor.daniel">
+                            <name>mollitor.daniel</name>
+                    </contributor>
+
+                    <genre qcode="dpatextgenre:26">
+                        <name>Zusammenfassung</name>
+                    </genre>
+
+                    <subject qcode="dpacat:wi" type="dpatype:category">
+                            <name>wi</name>
+                    </subject>
+                    <subject qcode="dpacountry:184" type="cpnat:geoArea" rank="1">
+                            <name>USA</name>
+                    </subject>
+                    <subject qcode="dpasubject:377" type="dpatype:dpasubject" rank="1">
+                            <name>Internet</name>
+                    </subject>
+                    <subject qcode="medtop:20000394" type="dpatype:dpasubject" rank="2">
+                            <name>Börse</name>
+                    </subject>
+
+                
+                
+                <language tag="de"/>
+
+                <headline rank="1">DeepSeek-Schock aus China: Zeichen für KI-Zeitenwende?</headline>
+                <headline rank="3">Künstliche Intelligenz</headline>
+                <dateline>New York (dpa) - </dateline>
+                <by>Von Andrej Sokolow, dpa</by>
+                <creditline>dpa</creditline>
+                <description role="drol:teaser">Dass ein Start-up aus China sein KI-Modell günstig trainierte, löste einen Kursrutsch in den USA aus. Für Experten ist es aber ein Zeichen, dass man Künstliche Intelligenz schneller entwickeln kann.</description>                                
+            </contentMeta>
+            <contentSet>
+                    <inlineXML contenttype="application/xhtml+xml">
+                        <html xmlns="http://www.w3.org/1999/xhtml">
+                        <head>
+                            <meta charset="utf-8"/>
+                            <title>DeepSeek-Schock aus China: Zeichen für KI-Zeitenwende?</title>
+                        </head>
+                        <body>
+                        <header>
+                            <time class="publicationDate"
+                                  data-datetime="2025-01-28T09:18:34+01:00">28.01.2025 09:18</time>
+                                <ul class="slugline">
+                                        <li class="subject"
+                                            data-qcode="dpasubject:377">Internet</li>
+                                        <li class="subject"
+                                            data-qcode="medtop:20000394">Börse</li>
+                                        <li class="geo"
+                                            data-qcode="dpacountry:184">USA</li>
+                                </ul>
+                                <h1>DeepSeek-Schock aus China: Zeichen für KI-Zeitenwende?</h1>
+                                <h3>Künstliche Intelligenz</h3>
+                                <p class="byline">Von Andrej Sokolow, dpa</p>
+                        </header>
+                        <section class="main dpatextgenre_26">
+                                <p class="teaser">Dass ein Start-up aus China sein KI-Modell günstig trainierte, löste einen Kursrutsch in den USA aus. Für Experten ist es aber ein Zeichen, dass man Künstliche Intelligenz schneller entwickeln kann.</p>
+                                <p><span class="dateline">New York <span class="credit">(dpa)</span> - </span>Ein Chatbot aus China schockt die Wall Street: Panische Anleger haben den Börsenwert des Chip-Konzerns Nvidia an einem Tag um fast 600 Milliarden Dollar einbrechen lassen. </p>
+                                <p>Auslöser war die Erkenntnis, dass Software mit Künstlicher Intelligenz möglicherweise mit viel weniger Rechenleistung - und damit auch Chips von Nvidia - trainiert werden kann als man bisher dachte. Denn das chinesische Start-up DeepSeek will sein neues KI-Modell mit Kosten von weniger als sechs Millionen Dollar und auf wenigen abgespeckten Nvidia-Chipsystemen angelernt haben.</p>
+                                <h2>Kalte Füße an der Wall Street</h2>
+                                <p>Ob das alles exakt so stimmt, weiß man nicht. So wurde in der Branche schon vor Wochen spekuliert, DeepSeek habe möglicherweise Zugriff auf mehr Nvidia-Chips als es angesichts der US-Ausfuhrbeschränkungen zugibt. Doch Investoren, die Nvidias Aktie in Erwartung eines zukünftigen Mega-Geschäfts in den vergangenen Monaten immer höher trieben, bekamen am Montag kalte Füße. US-Präsident Donald Trump sprach von einem Weckruf für amerikanische Unternehmen - und fand es zugleich «positiv», dass KI günstiger zu haben sein könne. </p>
+                                <p>Die Nvidia-Aktie fiel um knapp 17 Prozent und das radierte 589 Milliarden Dollar Börsenwert aus. Noch nie hatte ein US-Unternehmen an einem Tag so viel Wert verloren - allerdings war auch keins davor so teuer wie Nvidia mit fast 3,5 Billionen Dollar.</p>
+                                <h2>Was können die USA mit besseren Chips schaffen?</h2>
+                                <p>Aber was bedeutet das alles nun für die Zukunft? Amerikanische Firmen übertrafen sich zuletzt mit Ankündigungen, wie viel Geld sie in KI-Infrastruktur stecken wollen. Allein der ChatGPT-Erfinder OpenAI und mehrere Partner versprachen, in den kommenden Jahren 500 Milliarden Dollar in Rechenzentren zu investieren. Beim Facebook-Konzern Meta stellte Gründer Mark Zuckerberg 60 Milliarden Dollar nur in diesem Jahr in Aussicht. Zeigt DeepSeek nun aber, dass man mit deutlich weniger Rechenpower auskommen wird?</p>
+                                <p>US-Experten wollen es lieber andersherum sehen. Die Frage sei nicht, ob DeepSeek heutige Marktführer in den USA überholen könne, betonte etwa X. Eyeé von der KI-Beratungsfirma Malo Santo. Es gehe viel mehr darum, wie schnell man die Forschungsansätze der Chinesen umsetzen könne. «Wenn DeepSeek das mit alter Hardware entwickeln kann, was können wir dann mit neuerer Hardware schaffen?», fragte sie im US-Sender CNBC.</p>
+                                <h2>Zweifel an Kosten von DeepSeek</h2>
+                                <p>Die Tech-Industrie werde immer noch «eine Menge Chips brauchen», zeigte sich auch Branchenanalyst Stacy Rasgon überzeugt. «Es ist eindeutig eine Panik heute», betonte er mit Blick auf die Börsenreaktion. Zugleich zweifelte Rasgon die Angaben aus China an: «Sie haben das Modell nicht für fünf Millionen Dollar trainiert, das ist nicht passiert.»</p>
+                                <p>Schon vergangene Woche sagte der Chef der KI-Firma Scale AI, Alexander Wang, nach seinen Informationen habe DeepSeek Zugriff auf 50.000 H100-Chipsysteme von Nvidia, könne aber wegen US-Ausfuhrbeschränkungen nicht darüber sprechen. Die US-Regierung erlaubt Nvidia, nach China nur Chips zu verkaufen, die weniger leistungsstark sind.</p>
+                                <h2>Wer steckt hinter DeepSeek?</h2>
+                                <p>Die Firma wurde 2023 vom Hedge-Fonds-Manager Liang Wenfeng gegründet - und soll sich ein Paket von Nvidia-Chips gesichert haben. DeepSeek setzt auf Open-Source-Modelle, bei denen der Quellcode öffentlich einsehbar ist. Die Daten werden auf Servern in China gespeichert. Der chinesischen Regierung nicht genehme Informationen, etwa zum Massaker auf dem Platz des Himmlischen Friedens 1989, werden vom Chatbot unterschlagen. Dass DeepSeek auf Platz eins im US-App-Store für das iPhone aufstieg, hat deswegen angesichts des harten Vorgehens gegen Tiktok eine besondere Ironie.</p>
+                                <h2>Nicht nur Nvidia betroffen</h2>
+                                <p>Der DeepSeek-Schock zog auch andere Aktien in Mitleidenschaft. Das Papier der Chipfirma Broadcom verlor ebenfalls rund 17 Prozent. Noch härter traf es Energieunternehmen, bei denen Investoren seit Monaten auf gutes Geschäft mit der Versorgung von Rechenzentren spekulierten. Die Aktie von Constellation Energy fiel um gut ein Fünftel, der Kurs von Vistra brach sogar um 28 Prozent ein. Den Aktien von Apple und des Facebook-Konzerns Meta brachte die Aussicht auf günstigere KI hingegen ein Kursplus.</p>
+                        </section>
+                        </body>
+                        </html>
+                    </inlineXML>
+            </contentSet>
+        </newsItem>
+    </itemSet>
+</newsMessage>
